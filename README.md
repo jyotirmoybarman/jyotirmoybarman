@@ -8,5 +8,7 @@ I'm student trying to learn programing a get a job in my dream company GitHub❤
     |
     the journy is going on....</p>
 </details>
+
 # GitHub Status
+
 <img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&show_icons=true&theme=light&line_height=30">
