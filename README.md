@@ -1,4 +1,5 @@
 # Hi I'm [JYOTIRMOY✨](https://jyotirmoybarman.github.io/website/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> </p>
 <img src="pic/jyotirmoy.jpg">
 <p><b>GOOD {according to your time zone}, Good to see you here👋🏻<br/>
 I'm student trying to learn programming a get a job in my dream company GitHub❤️<img src="pic/github.webp" width="18px"><br/>
