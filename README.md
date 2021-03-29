@@ -1,6 +1,6 @@
 # Hi I'm [JYOTIRMOY✨](https://jyotirmoybarman.github.io/website/)
 <img src="pic/jyotirmoy.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?style="plastic"&logo="instagram"&logoColor="white"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?style="plastic"&logo="instagram"&logoColor="white""></p>
 <p><b>GOOD {according to your time zone}, Good to see you here👋🏻<br/>
 I'm student trying to learn programming a get a job in my dream company GitHub❤️<img src="pic/github.webp" width="18px"><br/>
 👇🏻 To know more about me
