@@ -3,7 +3,10 @@
 <p><b>GOOD {according to your time zone}, Good to see you here👋🏻<br/>
 I'm student trying to learn programing a get a job in my dream company GitHub❤️<img src="pic/github.webp" width="18px"><br/>
 <details>
-  <p> ### About me
+  <p> 
+
+### About me
+
     I was a child when i realize that the world is full of technology .
     |
     the journy is going on....</p>
