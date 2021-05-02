@@ -24,5 +24,4 @@ I'm student trying to learn programming and get a job in my dream company GitHub
 # CONTACT ME
 <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" width="25" height="25"/><b> Instagram: <a href="https://www.instagram.com/jyotirmoy_barman_/">jyotirmoy_barman_</b><a/><br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruKNTJ7SugzJ-NUn9mbzVypTDGbxBc0y_3b9U7U8xYw&s" width="25" height="25"><b> LinkedIn: <a href="https://www.linkedin.com/in/jyotirmoy-barman-275018203">JYOTIRMOY BARMAN</b><a/><br>
-<img src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" width="25" height="25"><b> GitHub: <a href="https://github.com/jyotirmoybarman">jyotirmoybarman</b><a/><br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAU8MsYG0tgg42hz_RI55q0ZIu01HISgU-KA&usqp=CAU" width="25" height="25"><b> Gmail: <a href="mailto:j.barman.offical@gmail.com">Jyotirmoy Barman</b><a/><br>
