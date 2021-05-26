@@ -22,6 +22,17 @@ I'm student trying to learn programming and get a job in my dream company GitHub
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&theme=light&hide_langs_below=1">
 
 # CONTACT ME
-<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" width="25" height="25"/><b> Instagram: <a href="https://www.instagram.com/jyotirmoy_barman_/">jyotirmoy_barman_</b><a/><br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruKNTJ7SugzJ-NUn9mbzVypTDGbxBc0y_3b9U7U8xYw&s" width="25" height="25"><b> LinkedIn: <a href="https://www.linkedin.com/in/jyotirmoy-barman-275018203">JYOTIRMOY BARMAN</b><a/><br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAU8MsYG0tgg42hz_RI55q0ZIu01HISgU-KA&usqp=CAU" width="25" height="25"><b> Gmail: <a href="mailto:j.barman.offical@gmail.com">Jyotirmoy Barman</b><a/><br>
+# CONTACT
+
+<a href="https://github.com/jyotirmoybarman/">
+        <img src="https://img.shields.io/badge/GITHUB-_jyotirmoybarman_-green?style=plastic&logo=github">
+</a><br/>
+<a href="https://instagram.com/jyotirmoy_barman_">
+        <img src="https://img.shields.io/badge/INSTAGRAM-_jyotirmoy__barman__-yellow?style=plastic&logo=instagr">
+</a><br/>
+<a href="https://www.linkedin.com/in/jyotirmoy-barman-275018203">
+        <img src="https://img.shields.io/badge/LINKEDIN-_Jyotirmoy_Barman_-blue?style=plastic&logo=linkedin">
+</a><br/>
+<a href="https://jyotirmoybarman.github.io/website/">
+        <img src="https://img.shields.io/badge/WEBSITE-_jbsite_-red?style=plastic&logo=github">
+</a><br/>
