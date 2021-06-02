@@ -28,11 +28,11 @@ I'm student trying to learn programming and get a job in my dream company GitHub
         <img src="https://img.shields.io/badge/GITHUB-_jyotirmoybarman_-green?style=plastic&logo=github">
 </a><br/>
 <a href="https://instagram.com/jyotirmoy_barman_">
-        <img src="https://img.shields.io/badge/INSTAGRAM-_jyotirmoy__barman__-yellow?style=plastic&logo=instagram">
+        <img src="https://img.shields.io/badge/INSTAGRAM-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
 </a><br/>
 <a href="https://www.linkedin.com/in/jyotirmoy-barman-275018203">
         <img src="https://img.shields.io/badge/LINKEDIN-_Jyotirmoy_Barman_-blue?style=plastic&logo=linkedin">
 </a><br/>
 <a href="https://jyotirmoybarman.github.io/website/">
-        <img src="https://img.shields.io/badge/WEBSITE-_jbsite_-red?style=plastic&logo=github">
+        <img src="https://img.shields.io/badge/WEBSITE-_jbsite_-yellow?style=plastic&logo=wordpress">
 </a><br/>
