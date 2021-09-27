@@ -7,7 +7,7 @@
 <img src="pic/linux.png" width=60px height=60px><img src="pic/Cpp.png" width=60px height=60px><img src="pic/python.png" width=60px height=60px>
 
 ## Tools
-<img src="pic/git.png" width=60px height=60px> <img src="pic/vim.png" width=60px height=60px>
+<img src="pic/git.png" width=60px height=60px> <img src="pic/vim.png" width=60px height=60px> <img src="pic/termux.png" width=60px height=60px>
 
 ## GitHub Stats 🗂️
 <details>
