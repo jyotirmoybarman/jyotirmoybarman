@@ -3,11 +3,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"><img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
 
 
-## Experience
+## Experience 
 <img src="pic/linux.png" width=60px height=60px><img src="pic/Cpp.png" width=60px height=60px><img src="pic/python.png" width=60px height=60px>
+
+<b>[▶️ know more](Experience.md)</b>
 
 ## Tools
 <img src="pic/git.png" width=60px height=60px> <img src="pic/vim.png" width=60px height=60px> <img src="pic/termux.png" width=60px height=60px>
+
+<b>[▶️ know more](Experience.md)</b>
 
 ## GitHub Stats 🗂️
 <details>
