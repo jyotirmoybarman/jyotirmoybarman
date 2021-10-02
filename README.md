@@ -15,7 +15,7 @@
 
 ## GitHub Stats 🗂️
 <details>
-<summary> Click to expand 🔻</summary>
+<summary>  𝙲𝚕𝚒𝚌𝚔 𝚝𝚘 𝚎𝚡𝚙𝚊𝚗𝚍 </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&show_icons=true&theme=light&line_height=30">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&theme=light&hide_langs_below=1">
 </details>
