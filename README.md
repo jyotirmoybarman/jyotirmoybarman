@@ -4,7 +4,7 @@
 
 
 ## Experience 
-<img src="pic/linux.png" width=60px height=60px><img src="pic/Cpp.png" width=60px height=60px><img src="pic/python.png" width=60px height=60px>
+<img src="pic/linux.png" width=60px height=60px><img src="pic/Cpp.png" width=60px height=60px><img src="pic/python.png" width=60px height=60px> <img src="pic/mysql.png" width=90px height=70px>
 
 <b>[▶️ know more](Experience.md)</b>
 
