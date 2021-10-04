@@ -10,7 +10,7 @@
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&border_radius=30&show_icons=true&theme=github_darkb&line_height=30&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Cpp-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
+<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Cpp-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
 - Learning in public [Twitter](https://twitter.com/j_barman_?s=08) 🎥
