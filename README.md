@@ -38,8 +38,3 @@
         <img src="https://img.shields.io/badge/-_jyotirmoybarman_-purple?style=plastic&logo=linktree">
 </a>
 
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
