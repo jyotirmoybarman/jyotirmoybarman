@@ -1,6 +1,6 @@
 # Hi I'm [JYOTIRMOY✨](https://linktr.ee/jyotirmoybarman)
 <img src="pic/banner.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"><img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"> <img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
 
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
