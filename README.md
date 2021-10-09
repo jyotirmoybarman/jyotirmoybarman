@@ -4,6 +4,11 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
+### ᴡᴏʀᴋsᴘᴀᴄᴇ
+
+- <img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
+- <img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+
 ### ʜᴏʙʙɪᴇs
 
 - 📷 Photography
@@ -22,7 +27,12 @@
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Cpp-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
+<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> 
+
+## ʀᴇᴘᴏsɪᴛᴏʀʏ
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Cpp-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Python-3-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
 - Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 🎥
@@ -39,6 +49,11 @@
         <img src="https://img.shields.io/badge/-_Jyotirmoy_Barman_-blue?style=plastic&logo=linkedin">
 </a>
 <a href="https://linktr.ee/jyotirmoybarman">
-        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-purple?style=plastic&logo=linktree">
+        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-green?style=plastic&logo=linktree&logoColor=white">
 </a>
 
+## ᴅᴏɴᴀᴛᴇ
+
+- 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙼𝚎 𝙱𝚢 𝙳𝚘𝚗𝚊𝚝𝚒𝚗𝚐 💰
+
+<img src="https://img.shields.io/badge/-ʙᴜʏ_ᴍᴇ_ᴀ_ᴄᴏғғᴇᴇ-yellow?style=plastic&logo=buy-me-a-coffee&logoColor=white"> <img src="https://img.shields.io/badge/-ᴘʜᴏɴᴇᴘᴇ-purple?style=plastic&logo=phonepe&logoColor=white">
