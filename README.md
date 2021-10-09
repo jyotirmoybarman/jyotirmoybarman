@@ -4,30 +4,21 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
-<details>
-<summary> 𝙒𝙊𝙍𝙆𝙎𝙋𝘼𝘾𝙀 </summary> <br/>
+### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
 - <img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 
-</details>
+### ʜᴏʙʙɪᴇs
 
-<details>
-<summary> 𝙃𝙊𝘽𝘽𝙄𝙀𝙎 </summary> <br/>
+- 📷 ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ 
+- 👨‍💻 ᴘʀᴏɢʀᴀᴍᴍɪɴɢ
+- 🖋️ ᴡʀɪᴛɪɴɢ ᴀʀᴛɪᴄʟᴇs
+- 🔎 ᴇxᴘʟᴏʀɪɴɢ
 
-- 📷 Photography
-- 👨‍💻 Programming
-- 🖋️ Writing Articles
-- 🔎 Exploring
-
-</details>
-
-<details>
-<summary> 𝙍𝙀𝙎𝙐𝙈𝙀 </summary> <br/>
+### ʀᴇsᴜᴍᴇ
 
 <a href=""><img src="https://img.shields.io/badge/-_ᴅᴏᴡɴʟᴏᴀᴅ_-green?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_ᴠɪᴇᴡ_-red?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_sʜᴀʀᴇ_-blue?style=plastic"></a>
-
-</details>
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
 
@@ -65,4 +56,4 @@
 
 - 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙼𝚎 𝙱𝚢 𝙳𝚘𝚗𝚊𝚝𝚒𝚗𝚐 💰
 
-<img src="https://img.shields.io/badge/-ʙᴜʏ_ᴍᴇ_ᴀ_ᴄᴏғғᴇᴇ-yellow?style=plastic&logo=buy-me-a-coffee&logoColor=white"> <img src="https://img.shields.io/badge/-ᴘʜᴏɴᴇᴘᴇ-purple?style=plastic&logo=phonepe&logoColor=white">
+<img src="https://img.shields.io/badge/-ʙᴜʏ_ᴍᴇ_ᴀ_ᴄᴏғғᴇᴇ-yellow?style=plastic&logo=buy-me-a-coffee&logoColor=white"> <img src="https://img.shields.io/badge/-ᴘʜᴏɴᴇᴘᴇ-purple?style=plastic&logo=phonepe&logoColor=white"> <img src="https://img.shields.io/badge/-_ᴇᴛʜᴇʀᴇᴜᴍ_-3C3C3D?style=plastic&logo=Ethereum"> <img src="https://img.shields.io/badge/_ʙɪᴛᴄᴏɪɴ_-000000?style=plastic&logo=bitcoin&logoColor=white">
