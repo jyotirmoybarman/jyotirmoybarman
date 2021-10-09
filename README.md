@@ -2,6 +2,18 @@
 <img src="pic/banner.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"> <img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
 
+## ᴀʙᴏᴜᴛ ᴍᴇ
+
+### ʜᴏʙʙɪᴇs
+
+- 📷 Photography
+- 👨‍💻 Programming
+- 🖋️ Writing Articles
+- 🔎 Exploring
+
+### ʀᴇsᴜᴍᴇ
+
+<a href=""><img src="https://img.shields.io/badge/-_ᴅᴏᴡɴʟᴏᴀᴅ_-green?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_ᴠɪᴇᴡ_-red?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_sʜᴀʀᴇ_-blue?style=plastic"></a>
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
 
