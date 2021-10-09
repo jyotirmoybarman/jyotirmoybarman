@@ -4,21 +4,30 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
-### ᴡᴏʀᴋsᴘᴀᴄᴇ
+<details>
+<summary> 𝙒𝙊𝙍𝙆𝙎𝙋𝘼𝘾𝙀 </summary> <br/>
 
 - <img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
 - <img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 
-### ʜᴏʙʙɪᴇs
+</details>
+
+<details>
+<summary> 𝙃𝙊𝘽𝘽𝙄𝙀𝙎 </summary> <br/>
 
 - 📷 Photography
 - 👨‍💻 Programming
 - 🖋️ Writing Articles
 - 🔎 Exploring
 
-### ʀᴇsᴜᴍᴇ
+</details>
+
+<details>
+<summary> 𝙍𝙀𝙎𝙐𝙈𝙀 </summary> <br/>
 
 <a href=""><img src="https://img.shields.io/badge/-_ᴅᴏᴡɴʟᴏᴀᴅ_-green?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_ᴠɪᴇᴡ_-red?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_sʜᴀʀᴇ_-blue?style=plastic"></a>
+
+</details>
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
 
