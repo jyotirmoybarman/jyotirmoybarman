@@ -6,7 +6,8 @@
 
 ## ᴄᴏɴᴛᴇɴᴛ
 
-- [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#%E1%B4%80%CA%99%E1%B4%8F%E1%B4%9C%E1%B4%9B-%E1%B4%8D%E1%B4%87)
+- [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴀʙᴏᴜᴛᴍᴇ)
+- []()
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
