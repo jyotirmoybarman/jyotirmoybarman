@@ -8,6 +8,13 @@
 
 - [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴀʙᴏᴜᴛ-ᴍᴇ)
 - [ᴡᴏʀᴋsᴘᴀᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴡᴏʀᴋsᴘᴀᴄᴇ)
+- [ʜᴏʙʙɪᴇs](https://github.com/jyotirmoybarman/jyotirmoybarman#ʜᴏʙʙɪᴇs)
+- [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
+- [ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴇxᴘᴇʀɪᴇɴᴄᴇ-ᴀɴᴅ-ᴛᴏᴏʟs-)
+- [ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github.com/jyotirmoybarman/jyotirmoybarman#ɢɪᴛʜᴜʙ-sᴛᴀᴛs)
+- [ʀᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇᴘᴏsɪᴛᴏʀʏ)
+- [ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ](https://github.com/jyotirmoybarman/jyotirmoybarman#ғɪɴᴅ-ᴍᴇ-ᴏɴ-ᴛʜᴇ-ᴡᴇʙ)
+- [ᴅᴏɴᴀᴛᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴅᴏɴᴀᴛᴇ)
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
