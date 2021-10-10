@@ -1,13 +1,18 @@
 # Hi I'm [JYOTIRMOY✨](https://linktr.ee/jyotirmoybarman)
 <img src="pic/banner.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"> <img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"> <img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
+
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
 ### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
-- <img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
-- <img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+<p align="center">
+<img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
+<img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+<img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 ### ʜᴏʙʙɪᴇs
 
@@ -18,7 +23,9 @@
 
 ### ʀᴇsᴜᴍᴇ
 
+<p align="left">
 <a href=""><img src="https://img.shields.io/badge/-_ᴅᴏᴡɴʟᴏᴀᴅ_-green?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_ᴠɪᴇᴡ_-red?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_sʜᴀʀᴇ_-blue?style=plastic"></a>
+</p>
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
 
@@ -56,4 +63,6 @@
 
 - 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙼𝚎 𝙱𝚢 𝙳𝚘𝚗𝚊𝚝𝚒𝚗𝚐 💰
 
+<p align="center">
 <img src="https://img.shields.io/badge/-ʙᴜʏ_ᴍᴇ_ᴀ_ᴄᴏғғᴇᴇ-yellow?style=plastic&logo=buy-me-a-coffee&logoColor=white"> <img src="https://img.shields.io/badge/-ᴘʜᴏɴᴇᴘᴇ-purple?style=plastic&logo=phonepe&logoColor=white"> <img src="https://img.shields.io/badge/-_ᴇᴛʜᴇʀᴇᴜᴍ_-3C3C3D?style=plastic&logo=Ethereum"> <img src="https://img.shields.io/badge/_ʙɪᴛᴄᴏɪɴ_-000000?style=plastic&logo=bitcoin&logoColor=white">
+</p>
