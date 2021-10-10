@@ -2,6 +2,11 @@
 <img src="pic/banner.png">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"> <img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
 
+---
+
+## ᴄᴏɴᴛᴇɴᴛ
+
+- [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#%E1%B4%80%CA%99%E1%B4%8F%E1%B4%9C%E1%B4%9B-%E1%B4%8D%E1%B4%87)
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
