@@ -16,6 +16,8 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
+![boy](pic/details.gif)
+
 ### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
 <p align="center">
