@@ -16,7 +16,11 @@
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
+<kbd>
+
 ![boy](pic/details.gif)
+
+</kbd>
 
 ### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
@@ -44,6 +48,7 @@
 
 <img src="pic/linux.png" width=40px height=40px><img src="pic/Cpp.png" width=40px height=40px><img src="pic/python.png" width=40px height=40px> <img src="pic/mysql.png" width=60px height=40px>
 <img src="pic/git.png" width=40px height=40px> <img src="pic/vim.png" width=40px height=40px> <img src="pic/termux.png" width=40px height=40px>   <img src="pic/GitHub.png" width=40px height=40px>
+> Click to Infinity ∞ to view in detail.
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
