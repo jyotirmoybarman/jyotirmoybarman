@@ -23,7 +23,7 @@
 
 <img src="pic/linux.png" width=40px height=40px> <img src="pic/termux.png" width=40px height=40px>
 
-### ᴇᴅɪᴛᴏʀ
+### ᴇᴅɪᴛᴏʀ ᴀɴᴅ ɪᴅᴇ
 
 <img src="pic/vim.png" width=40px height=40px> <img src="pic/nano.png" width=40px height=40px>
 
