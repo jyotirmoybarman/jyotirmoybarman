@@ -73,7 +73,7 @@
 <a href="https://instagram.com/jyotirmoy_barman_">
         <img src="https://img.shields.io/badge/-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
 </a>
-<a href="">
+<a href="https://twitter.com/jyotirmoytweet">
         <img src="https://img.shields.io/badge/-_jyotirmoytweet_-blue?style=plastic&logo=twitter&logoColor=white">
 </a>
 <a href="https://linktr.ee/jyotirmoybarman">
