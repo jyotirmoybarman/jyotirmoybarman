@@ -1,6 +1,6 @@
 # Hi I'm [JYOTIRMOY✨](https://linktr.ee/jyotirmoybarman)
 <img src="pic/banner.png">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="https://instagram.com/jyotirmoy_barman_"> <img src="https://img.shields.io/badge/Instagram-jyotirmoy__barman__-blue?logo=instagram&logoColor=white&style=plastic"></a><br/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="mailto:j.barman.personal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-j.barman.personal@gmail.com-blue?logo=gmail&logoColor=white&style=plastic"></a><br/> </p>
 
 ## ᴄᴏɴᴛᴇɴᴛ
 
@@ -64,8 +64,7 @@
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
 - Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 🎥
-- Creating a network all over the world [LinkedIn](https://www.linkedin.com/in/jyotirmoy-barman-275018203) 🕸️
-- Sharing some Knowledge by my [Articles](https://jyotirmoy.hashnode.dev/) 📰
+- Sharing some Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
 - Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🎮
 <p align="center">
 <a href="https://github.com/jyotirmoybarman/">
@@ -74,8 +73,8 @@
 <a href="https://instagram.com/jyotirmoy_barman_">
         <img src="https://img.shields.io/badge/-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/jyotirmoy-barman-275018203">
-        <img src="https://img.shields.io/badge/-_Jyotirmoy_Barman_-blue?style=plastic&logo=linkedin">
+<a href="">
+        <img src="https://img.shields.io/badge/-_jyotirmoytweet_-blue?style=plastic&logo=twitter&logoColor=white">
 </a>
 <a href="https://linktr.ee/jyotirmoybarman">
         <img src="https://img.shields.io/badge/-_jyotirmoybarman_-green?style=plastic&logo=linktree&logoColor=white">
