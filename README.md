@@ -1,6 +1,13 @@
 # Hi I'm [JYOTIRMOY✨](https://linktr.ee/jyotirmoybarman)
-<img src="pic/banner.png">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&label=Views&color=blue&style=plastic" alt="jyotirmoybarman" /> <img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=plastic"><a href="mailto:j.barman.personal@gmail.com"> <img src="https://img.shields.io/badge/Gmail-j.barman.personal@gmail.com-blue?logo=gmail&logoColor=white&style=plastic"></a><br/> </p>
+
+<img src="pic/details.gif">
+
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&style=flat">
+<img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=flat">
+<a href="mailto:j.barman.personal@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-j.barman.personal@gmail.com-blue?logo=gmail&logoColor=white&style=flat">
+</a><br/> </p>
 
 ## ᴄᴏɴᴛᴇɴᴛ
 
@@ -14,22 +21,18 @@
 - [ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ](https://github.com/jyotirmoybarman/jyotirmoybarman#ғɪɴᴅ-ᴍᴇ-ᴏɴ-ᴛʜᴇ-ᴡᴇʙ)
 - [ᴅᴏɴᴀᴛᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴅᴏɴᴀᴛᴇ)
 
+---
+
 ## ᴀʙᴏᴜᴛ ᴍᴇ
-
-<kbd>
-
-![boy](pic/details.gif)
-
-</kbd>
 
 ### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
-<p align="center">
-<img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
-<img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-<img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</p>
+><p align="center">
+><img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
+><img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+><img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white">
+><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+></p>
 
 ### ʜᴏʙʙɪᴇs
 
@@ -41,19 +44,31 @@
 - 🎣 ғɪsʜɪɴɢ  (ᴘʟᴀɴɴɪɴɢ ᴛᴏ)
 
 
-## ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
+### ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
 
-<img src="pic/linux.png" width=40px height=40px><img src="pic/Cpp.png" width=40px height=40px><img src="pic/python.png" width=40px height=40px> <img src="pic/mysql.png" width=60px height=40px>
-<img src="pic/git.png" width=40px height=40px> <img src="pic/vim.png" width=40px height=40px> <img src="pic/termux.png" width=40px height=40px>   <img src="pic/GitHub.png" width=40px height=40px>
-<img src="pic/nano.png" width=40px height=40px> <img src="pic/gitlab.png" width=40px height=40px>
+><img src="pic/linux.png" width=40px height=40px><img src="pic/Cpp.png" width=40px height=40px><img src="pic/python.png" width=40px height=40px> <img src="pic/mysql.png" width=60px height=40px>
+><img src="pic/git.png" width=40px height=40px> <img src="pic/vim.png" width=40px height=40px> <img src="pic/termux.png" width=40px height=40px>   <img src="pic/GitHub.png" width=40px height=40px>
+><img src="pic/nano.png" width=40px height=40px> <img src="pic/gitlab.png" width=40px height=40px>
+
 > Click the Infinity ∞ to view in detail.
+
+
+### ᴛɪᴍᴇʟɪɴᴇ
+
+><i>2021 - Present</i>
+>- Bachalor of Computer Application
+>- Chandigarh University
+
+><i>2021</i>
+>- Science Stream, HHLS
+>- Kendriya Vidyalaya Tura
+>- 75 Percentage
 
 ### ʀᴇsᴜᴍᴇ
 
 <p align="left">
 <a href=""><img src="https://img.shields.io/badge/-_ᴅᴏᴡɴʟᴏᴀᴅ_-green?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_ᴠɪᴇᴡ_-red?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_sʜᴀʀᴇ_-blue?style=plastic"></a>
 </p>
-
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
