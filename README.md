@@ -13,8 +13,9 @@
 
 - [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴀʙᴏᴜᴛ-ᴍᴇ)
 - [ᴡᴏʀᴋsᴘᴀᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴡᴏʀᴋsᴘᴀᴄᴇ)
+- [ᴇxᴘᴇʀɪᴇɴᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴇxᴘᴇʀɪᴇɴᴄᴇ)
 - [ʜᴏʙʙɪᴇs](https://github.com/jyotirmoybarman/jyotirmoybarman#ʜᴏʙʙɪᴇs)
-- [ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴇxᴘᴇʀɪᴇɴᴄᴇ-ᴀɴᴅ-ᴛᴏᴏʟs-)
+- [ᴛɪᴍᴇʟɪɴᴇ](https://github.com/jyotirmoybarman#ᴛɪᴍᴇʟɪɴᴇ)
 - [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
 - [ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github.com/jyotirmoybarman/jyotirmoybarman#ɢɪᴛʜᴜʙ-sᴛᴀᴛs)
 - [ʀᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇᴘᴏsɪᴛᴏʀʏ)
@@ -34,17 +35,7 @@
 ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 ></p>
 
-### ʜᴏʙʙɪᴇs
-
-- 📷 ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ 
-- 👨‍💻 ᴘʀᴏɢʀᴀᴍᴍɪɴɢ
-- 🖋️ ᴡʀɪᴛɪɴɢ ᴀʀᴛɪᴄʟᴇs
-- 🔎 ᴇxᴘʟᴏʀɪɴɢ
-- 🌱 ᴘʟᴀɴᴛɪɴɢ (ᴘʟᴀɴɴɪɴɢ ᴛᴏ)
-- 🎣 ғɪsʜɪɴɢ  (ᴘʟᴀɴɴɪɴɢ ᴛᴏ)
-
-
-### ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
+### ᴇxᴘᴇʀɪᴇɴᴄᴇ [∞](Experience.md)
 
 ><img src="pic/linux.png" width=40px height=40px><img src="pic/Cpp.png" width=40px height=40px><img src="pic/python.png" width=40px height=40px> <img src="pic/mysql.png" width=60px height=40px>
 ><img src="pic/git.png" width=40px height=40px> <img src="pic/vim.png" width=40px height=40px> <img src="pic/termux.png" width=40px height=40px>   <img src="pic/GitHub.png" width=40px height=40px>
@@ -52,6 +43,14 @@
 
 > Click the Infinity ∞ to view in detail.
 
+### ʜᴏʙʙɪᴇs
+
+>- 📷 ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ 
+>- 👨‍💻 ᴘʀᴏɢʀᴀᴍᴍɪɴɢ
+>- 🖋️ ᴡʀɪᴛɪɴɢ ᴀʀᴛɪᴄʟᴇs
+>- 🔎 ᴇxᴘʟᴏʀɪɴɢ
+>- 🌱 ᴘʟᴀɴᴛɪɴɢ (ᴘʟᴀɴɴɪɴɢ ᴛᴏ)
+>- 🎣 ғɪsʜɪɴɢ  (ᴘʟᴀɴɴɪɴɢ ᴛᴏ)
 
 ### ᴛɪᴍᴇʟɪɴᴇ
 
