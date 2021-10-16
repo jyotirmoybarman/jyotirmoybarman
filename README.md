@@ -7,8 +7,8 @@
 - [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴀʙᴏᴜᴛ-ᴍᴇ)
 - [ᴡᴏʀᴋsᴘᴀᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴡᴏʀᴋsᴘᴀᴄᴇ)
 - [ʜᴏʙʙɪᴇs](https://github.com/jyotirmoybarman/jyotirmoybarman#ʜᴏʙʙɪᴇs)
-- [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
 - [ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴇxᴘᴇʀɪᴇɴᴄᴇ-ᴀɴᴅ-ᴛᴏᴏʟs-)
+- [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
 - [ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github.com/jyotirmoybarman/jyotirmoybarman#ɢɪᴛʜᴜʙ-sᴛᴀᴛs)
 - [ʀᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇᴘᴏsɪᴛᴏʀʏ)
 - [ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ](https://github.com/jyotirmoybarman/jyotirmoybarman#ғɪɴᴅ-ᴍᴇ-ᴏɴ-ᴛʜᴇ-ᴡᴇʙ)
@@ -40,11 +40,6 @@
 - 🌱 ᴘʟᴀɴᴛɪɴɢ (ᴘʟᴀɴɴɪɴɢ ᴛᴏ)
 - 🎣 ғɪsʜɪɴɢ  (ᴘʟᴀɴɴɪɴɢ ᴛᴏ)
 
-### ʀᴇsᴜᴍᴇ
-
-<p align="left">
-<a href=""><img src="https://img.shields.io/badge/-_ᴅᴏᴡɴʟᴏᴀᴅ_-green?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_ᴠɪᴇᴡ_-red?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_sʜᴀʀᴇ_-blue?style=plastic"></a>
-</p>
 
 ## ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴀɴᴅ ᴛᴏᴏʟs [∞](Experience.md)
 
@@ -52,6 +47,13 @@
 <img src="pic/git.png" width=40px height=40px> <img src="pic/vim.png" width=40px height=40px> <img src="pic/termux.png" width=40px height=40px>   <img src="pic/GitHub.png" width=40px height=40px>
 <img src="pic/nano.png" width=40px height=40px> <img src="pic/gitlab.png" width=40px height=40px>
 > Click the Infinity ∞ to view in detail.
+
+### ʀᴇsᴜᴍᴇ
+
+<p align="left">
+<a href=""><img src="https://img.shields.io/badge/-_ᴅᴏᴡɴʟᴏᴀᴅ_-green?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_ᴠɪᴇᴡ_-red?style=plastic"></a> <a href=""><img src="https://img.shields.io/badge/-_sʜᴀʀᴇ_-blue?style=plastic"></a>
+</p>
+
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
