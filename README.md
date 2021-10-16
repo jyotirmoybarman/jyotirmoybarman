@@ -37,6 +37,7 @@
 
 ### ᴇxᴘᴇʀɪᴇɴᴄᴇ [∞](Experience.md)
 
+><p align="center">
 ><img src="pic/linux.png" width=40px height=40px>
 ><img src="pic/Cpp.png" width=40px height=40px>
 ><img src="pic/python.png" width=40px height=40px> 
@@ -47,6 +48,7 @@
 ><img src="pic/GitHub.png" width=40px height=40px>
 ><img src="pic/nano.png" width=40px height=40px> 
 ><img src="pic/gitlab.png" width=40px height=40px>
+></p>
 
 > Click the Infinity ∞ to view in detail.
 
