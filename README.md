@@ -3,10 +3,10 @@
 <img src="pic/details.gif">
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=jyotirmoybarman&style=flat">
-<img src="https://img.shields.io/github/followers/jyotirmoybarman?logo=github&style=flat">
+<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-INDIAN-blue?logo=h&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Twitter-jyotirmoytweet-blue?logo=twitter&style=flat">
 <a href="mailto:j.barman.personal@gmail.com"> 
-<img src="https://img.shields.io/badge/Gmail-j.barman.personal@gmail.com-blue?logo=gmail&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/Gmail-j.barman.personal@gmail.com-blue?logo=gmail&logoColor=1d9bf0&style=flat">
 </a><br/> </p>
 
 ## ᴄᴏɴᴛᴇɴᴛ
@@ -37,9 +37,16 @@
 
 ### ᴇxᴘᴇʀɪᴇɴᴄᴇ [∞](Experience.md)
 
-><img src="pic/linux.png" width=40px height=40px><img src="pic/Cpp.png" width=40px height=40px><img src="pic/python.png" width=40px height=40px> <img src="pic/mysql.png" width=60px height=40px>
-><img src="pic/git.png" width=40px height=40px> <img src="pic/vim.png" width=40px height=40px> <img src="pic/termux.png" width=40px height=40px>   <img src="pic/GitHub.png" width=40px height=40px>
-><img src="pic/nano.png" width=40px height=40px> <img src="pic/gitlab.png" width=40px height=40px>
+><img src="pic/linux.png" width=40px height=40px>
+><img src="pic/Cpp.png" width=40px height=40px>
+><img src="pic/python.png" width=40px height=40px> 
+><img src="pic/mysql.png" width=60px height=40px>
+><img src="pic/git.png" width=40px height=40px> 
+><img src="pic/vim.png" width=40px height=40px> 
+><img src="pic/termux.png" width=40px height=40px> 
+><img src="pic/GitHub.png" width=40px height=40px>
+><img src="pic/nano.png" width=40px height=40px> 
+><img src="pic/gitlab.png" width=40px height=40px>
 
 > Click the Infinity ∞ to view in detail.
 
