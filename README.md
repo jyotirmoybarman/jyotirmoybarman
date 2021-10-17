@@ -11,20 +11,24 @@
 
 ## ᴄᴏɴᴛᴇɴᴛ
 
-- [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴀʙᴏᴜᴛ-ᴍᴇ)
-- [ᴡᴏʀᴋsᴘᴀᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴡᴏʀᴋsᴘᴀᴄᴇ)
-- [ᴇxᴘᴇʀɪᴇɴᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴇxᴘᴇʀɪᴇɴᴄᴇ)
-- [ʜᴏʙʙɪᴇs](https://github.com/jyotirmoybarman/jyotirmoybarman#ʜᴏʙʙɪᴇs)
-- [ᴛɪᴍᴇʟɪɴᴇ](https://github.com/jyotirmoybarman#ᴛɪᴍᴇʟɪɴᴇ)
-- [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
-- [ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github.com/jyotirmoybarman/jyotirmoybarman#ɢɪᴛʜᴜʙ-sᴛᴀᴛs)
-- [ʀᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇᴘᴏsɪᴛᴏʀʏ)
-- [ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ](https://github.com/jyotirmoybarman/jyotirmoybarman#ғɪɴᴅ-ᴍᴇ-ᴏɴ-ᴛʜᴇ-ᴡᴇʙ)
-- [ᴅᴏɴᴀᴛᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴅᴏɴᴀᴛᴇ)
-
----
+><details>
+><summary>ᴇxᴘᴀɴᴅ</summary>
+>
+>- [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴀʙᴏᴜᴛ-ᴍᴇ)
+>- [ᴡᴏʀᴋsᴘᴀᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴡᴏʀᴋsᴘᴀᴄᴇ)
+>- [ᴇxᴘᴇʀɪᴇɴᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴇxᴘᴇʀɪᴇɴᴄᴇ)
+>- [ʜᴏʙʙɪᴇs](https://github.com/jyotirmoybarman/jyotirmoybarman#ʜᴏʙʙɪᴇs)
+>- [ᴛɪᴍᴇʟɪɴᴇ](https://github.com/jyotirmoybarman#ᴛɪᴍᴇʟɪɴᴇ)
+>- [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
+>- [ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github.com/jyotirmoybarman/jyotirmoybarman#ɢɪᴛʜᴜʙ-sᴛᴀᴛs)
+>- [ʀᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇᴘᴏsɪᴛᴏʀʏ)
+>- [ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ](https://github.com/jyotirmoybarman/jyotirmoybarman#ғɪɴᴅ-ᴍᴇ-ᴏɴ-ᴛʜᴇ-ᴡᴇʙ)
+>- [ᴅᴏɴᴀᴛᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴅᴏɴᴀᴛᴇ)
+>
+></details>
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
+
 
 ### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
