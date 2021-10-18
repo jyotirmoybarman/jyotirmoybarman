@@ -134,8 +134,8 @@
 - Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
 - Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🎮
 <p align="center">
-<a href="https://github.com/jyotirmoybarman/">
-        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-grey?style=plastic&logo=github">
+<a href="https://unsplash.com/@jyotirmoybarman">
+        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-grey?style=plastic&logo=unsplash">
 </a>
 <a href="https://instagram.com/jyotirmoy_barman_">
         <img src="https://img.shields.io/badge/-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
