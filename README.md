@@ -130,10 +130,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Python-3-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
-- Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 🎥
+- Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 👥
 - Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
-- Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🎮
-- See my Captured Moment in [Unsplash](https://unsplash.com/@jyotirmoybarman)
+- Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🍟
+- See my Captured Moment in [Unsplash](https://unsplash.com/@jyotirmoybarman) 📷
 <p align="center">
 <a href="https://unsplash.com/@jyotirmoybarman">
         <img src="https://img.shields.io/badge/-_jyotirmoybarman_-grey?style=plastic&logo=unsplash">
