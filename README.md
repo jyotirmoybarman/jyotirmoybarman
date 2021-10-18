@@ -131,7 +131,7 @@
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
 - Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 🎥
-- Sharing some Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
+- Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
 - Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🎮
 <p align="center">
 <a href="https://github.com/jyotirmoybarman/">
