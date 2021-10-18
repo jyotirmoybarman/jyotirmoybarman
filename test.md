@@ -1,6 +1,8 @@
 # Hi I'm [JYOTIRMOY✨](https://linktr.ee/jyotirmoybarman)
 
+<p align="center">
 <img src="pic/details.gif">
+</p>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-INDIAN-blue?logo=h&logoColor=white&style=flat">
