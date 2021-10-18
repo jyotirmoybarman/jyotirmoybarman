@@ -91,6 +91,8 @@
 
 ### ᴏᴛʜᴇʀ sᴋɪʟʟs
 
+>- Time Management
+>- Oral Communication
 
 ### ʜᴏʙʙɪᴇs
 
