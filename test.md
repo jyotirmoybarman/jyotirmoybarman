@@ -47,7 +47,7 @@
 ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 ></p>
 
-### ᴇxᴘᴇʀɪᴇɴᴄᴇ [∞](Experience.md)
+### ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
 ><p align="center">
 ><img src="pic/linux.png" width=40px height=40px>
@@ -67,7 +67,55 @@
 ><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width=95px height=40px>
 ></p>
 
-> Click the Infinity ∞ to view in detail.
+><details>
+><summary>View in details</summary>
+>
+>### Operating System
+>
+>- Linux
+>- Mac os
+>- Windows
+>
+>### Programming Language
+>
+>- C
+>- C#
+>- C++
+>- R
+>- Rust
+>- Python
+>
+>### Database
+>
+>- MySql
+>- MongoDB
+>
+>### Version Control
+>
+>- Git
+>- Github
+>- Gitlab
+>
+>### Containers
+>
+>- Docker
+>- Kubernetes
+>
+>### Web Development
+>
+>- Html
+>- Css
+>- Javascript
+>
+>### Text Editor and IDEs
+>
+>- Vim
+>- Nano
+>- VS code
+>- Pycharm
+>- vs studio
+>
+></details>
 
 ### ᴛᴇᴄʜɴɪᴄᴀʟ sᴋɪʟʟs
 
@@ -80,7 +128,7 @@
 >- App Development
 >- Cloud Computing
 >- Interoperability skills
->- Version control (Github and gitlab)
+>- Version control (Github and Gitlab)
 
 ### ᴏᴛʜᴇʀ sᴋɪʟʟs
 
