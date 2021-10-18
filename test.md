@@ -51,6 +51,7 @@
 
 ><p align="center">
 ><img src="pic/linux.png" width=40px height=40px>
+><img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo.png" width=35px height=35px>
 ><img src="pic/Cpp.png" width=40px height=40px>
 ><img src="pic/python.png" width=40px height=40px> 
 ><img src="pic/mysql.png" width=60px height=40px>
@@ -60,22 +61,31 @@
 ><img src="pic/GitHub.png" width=40px height=40px>
 ><img src="pic/nano.png" width=40px height=40px> 
 ><img src="pic/gitlab.png" width=40px height=40px>
+><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width=40px height=40px>
+><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width=50px height=40px>
+><img src="https://code.visualstudio.com/assets/images/code-stable.png" width=40px height=40px>
+><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width=95px height=40px>
 ></p>
 
 > Click the Infinity ∞ to view in detail.
 
 ### ᴛᴇᴄʜɴɪᴄᴀʟ sᴋɪʟʟs
 
->- Data Structure
->- Smart Contracts
->- Cryptography
->- Web Development
->- Interoperability skills 
+>- Data Structure and Algorithms
+>- Smart Contracts Development
+>- Encryption and Cryptography
+>- Containers (Docker and Kubernetes)
 >- Blockchain Architecture
+>- Web Development
+>- App Development
+>- Cloud Computing
+>- Interoperability skills
+>- Version control (Github and gitlab)
 
 ### ᴏᴛʜᴇʀ sᴋɪʟʟs
 
 >- Empathy
+>- Teamwork
 >- Adaptability
 >- Digital Literacy
 >- Time Management
@@ -119,7 +129,7 @@
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
 - Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 🎥
-- Sharing some Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
+- Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
 - Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🎮
 <p align="center">
 <a href="https://github.com/jyotirmoybarman/">
