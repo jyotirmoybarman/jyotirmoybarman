@@ -1,6 +1,8 @@
 # Hi I'm [JYOTIRMOY✨](https://linktr.ee/jyotirmoybarman)
 
+<p align="center">
 <img src="pic/details.gif">
+</p>
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-INDIAN-blue?logo=h&logoColor=white&style=flat">
@@ -39,7 +41,7 @@
 ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 ></p>
 
-### ᴇxᴘᴇʀɪᴇɴᴄᴇ [∞](Experience.md)
+### ᴇxᴘᴇʀɪᴇɴᴄᴇ 
 
 ><p align="center">
 ><img src="pic/linux.png" width=40px height=40px>
@@ -54,7 +56,41 @@
 ><img src="pic/gitlab.png" width=40px height=40px>
 ></p>
 
-> Click the Infinity ∞ to view in detail.
+><details>
+><summary>View in details</summary>
+>
+>## Operating System
+>
+>- Lunix (Termux)
+>
+>## Programming Language
+>
+>- C++
+>- Python
+>
+>## Version Control
+>
+>- Git
+>- Github
+>- Gitlab
+>
+>## Text Editor and IDEs
+>
+>- Vim
+>- Nano
+>
+>## Database
+>
+>- MySQL
+>
+></details>
+
+### ᴛᴇᴄʜɴɪᴄᴀʟ sᴋɪʟʟs
+
+>- Data structure and Algorithms
+
+### ᴏᴛʜᴇʀ sᴋɪʟʟs
+
 
 ### ʜᴏʙʙɪᴇs
 
