@@ -16,16 +16,18 @@
 ><details>
 ><summary>ᴇxᴘᴀɴᴅ</summary>
 >
->- [ᴀʙᴏᴜᴛ ᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴀʙᴏᴜᴛ-ᴍᴇ)
->- [ᴡᴏʀᴋsᴘᴀᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴡᴏʀᴋsᴘᴀᴄᴇ)
->- [ᴇxᴘᴇʀɪᴇɴᴄᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴇxᴘᴇʀɪᴇɴᴄᴇ)
->- [ʜᴏʙʙɪᴇs](https://github.com/jyotirmoybarman/jyotirmoybarman#ʜᴏʙʙɪᴇs)
->- [ᴛɪᴍᴇʟɪɴᴇ](https://github.com/jyotirmoybarman#ᴛɪᴍᴇʟɪɴᴇ)
->- [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
->- [ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github.com/jyotirmoybarman/jyotirmoybarman#ɢɪᴛʜᴜʙ-sᴛᴀᴛs)
->- [ʀᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇᴘᴏsɪᴛᴏʀʏ)
->- [ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ](https://github.com/jyotirmoybarman/jyotirmoybarman#ғɪɴᴅ-ᴍᴇ-ᴏɴ-ᴛʜᴇ-ᴡᴇʙ)
->- [ᴅᴏɴᴀᴛᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴅᴏɴᴀᴛᴇ)
+>- ᴀʙᴏᴜᴛ ᴍᴇ
+>- ᴡᴏʀᴋsᴘᴀᴄᴇ
+>- ᴇxᴘᴇʀɪᴇɴᴄᴇ
+>- ᴛᴇᴄʜɴɪᴄᴀʟ sᴋɪʟʟs
+>- ᴏᴛʜᴇʀ sᴋɪʟʟs
+>- ʜᴏʙʙɪᴇs
+>- ᴛɪᴍᴇʟɪɴᴇ
+>- ʀᴇsᴜᴍᴇ
+>- ɢɪᴛʜᴜʙ sᴛᴀᴛs
+>- ʀᴇᴘᴏsɪᴛᴏʀʏ
+>- ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ
+>- ᴅᴏɴᴀᴛᴇ
 >
 ></details>
 
@@ -130,29 +132,30 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Python-3-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
-- Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 👥
-- Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
-- Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🍟
-- See my Captured Moment in [Unsplash](https://unsplash.com/@jyotirmoybarman) 📷
-<p align="center">
-<a href="https://unsplash.com/@jyotirmoybarman">
-        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-grey?style=plastic&logo=unsplash">
-</a>
-<a href="https://instagram.com/jyotirmoy_barman_">
-        <img src="https://img.shields.io/badge/-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
-</a>
-<a href="https://twitter.com/jyotirmoytweet">
-        <img src="https://img.shields.io/badge/-_jyotirmoytweet_-blue?style=plastic&logo=twitter&logoColor=white">
-</a>
-<a href="https://linktr.ee/jyotirmoybarman">
-        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-green?style=plastic&logo=linktree&logoColor=white">
-</a>
-</p>
+>- Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 👥
+>- Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
+>- Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🍟
+>- See my Captured Moment in [Unsplash](https://unsplash.com/@jyotirmoybarman) 📷
+
+><p align="center">
+><a href="https://unsplash.com/@jyotirmoybarman">
+>        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-grey?style=plastic&logo=unsplash">
+></a>
+><a href="https://instagram.com/jyotirmoy_barman_">
+>        <img src="https://img.shields.io/badge/-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
+></a>
+><a href="https://twitter.com/jyotirmoytweet">
+>        <img src="https://img.shields.io/badge/-_jyotirmoytweet_-blue?style=plastic&logo=twitter&logoColor=white">
+></a>
+><a href="https://linktr.ee/jyotirmoybarman">
+>        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-green?style=plastic&logo=linktree&logoColor=white">
+></a>
+></p>
 
 ## ᴅᴏɴᴀᴛᴇ
 
-- 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙼𝚎 𝙱𝚢 𝙳𝚘𝚗𝚊𝚝𝚒𝚗𝚐 💰
+>- 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙼𝚎 𝙱𝚢 𝙳𝚘𝚗𝚊𝚝𝚒𝚗𝚐 💰
 
-<p align="center">
-<img src="https://img.shields.io/badge/-ʙᴜʏ_ᴍᴇ_ᴀ_ᴄᴏғғᴇᴇ-yellow?style=plastic&logo=buy-me-a-coffee&logoColor=white"> <img src="https://img.shields.io/badge/-ᴘʜᴏɴᴇᴘᴇ-purple?style=plastic&logo=phonepe&logoColor=white"> <img src="https://img.shields.io/badge/-_ᴇᴛʜᴇʀᴇᴜᴍ_-3C3C3D?style=plastic&logo=Ethereum"> <img src="https://img.shields.io/badge/_ʙɪᴛᴄᴏɪɴ_-000000?style=plastic&logo=bitcoin&logoColor=white"> <img src="https://img.shields.io/badge/-🏦_ʙᴀɴᴋ_-blue?style=plastic&logo=&logoColor=white">
-</p>
+><p align="center">
+><img src="https://img.shields.io/badge/-ʙᴜʏ_ᴍᴇ_ᴀ_ᴄᴏғғᴇᴇ-yellow?style=plastic&logo=buy-me-a-coffee&logoColor=white"> <img src="https://img.shields.io/badge/-ᴘʜᴏɴᴇᴘᴇ-purple?style=plastic&logo=phonepe&logoColor=white"> <img src="https://img.shields.io/badge/-_ᴇᴛʜᴇʀᴇᴜᴍ_-3C3C3D?style=plastic&logo=Ethereum"> <img src="https://img.shields.io/badge/_ʙɪᴛᴄᴏɪɴ_-000000?style=plastic&logo=bitcoin&logoColor=white"> <img src="https://img.shields.io/badge/-🏦_ʙᴀɴᴋ_-blue?style=plastic&logo=&logoColor=white">
+></p>
