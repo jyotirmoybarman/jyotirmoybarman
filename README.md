@@ -6,9 +6,9 @@
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-INDIAN-blue?logo=h&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/Twitter-jyotirmoytweet-blue?logo=twitter&style=flat">
-<a href="mailto:j.barman.personal@gmail.com"> 
-<img src="https://img.shields.io/badge/Gmail-j.barman.personal@gmail.com-blue?logo=gmail&logoColor=1d9bf0&style=flat">
+<img src="https://img.shields.io/badge/Twitter-jyotirmoydotin-blue?logo=twitter&style=flat">
+<a href="mailto:jyotirmoydotin@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-jyotirmoydotin@gmail.com-blue?logo=gmail&logoColor=1d9bf0&style=flat">
 </a><br/> </p>
 
 ## ᴄᴏɴᴛᴇɴᴛ
@@ -124,28 +124,28 @@
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> 
+<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotin&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> 
 
 ## ʀᴇᴘᴏsɪᴛᴏʀʏ
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Cpp-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Python-3-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotin&repo=Cpp-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotin&repo=Python-3-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
->- Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 👥
+>- Learning in public [Twitter](https://twitter.com/jyotirmoydotin?s=08) 👥
 >- Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
->- Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🍟
->- See my Captured Moment in [Unsplash](https://unsplash.com/@jyotirmoybarman) 📷
+>- Hangout with me in [Instagram](https://instagram.com/jyotirmoydotin) 🍟
+>- See my Captured Moment in [Unsplash](https://unsplash.com/@jyotirmoydotin) 📷
 
 ><p align="center">
-><a href="https://unsplash.com/@jyotirmoybarman">
->        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-grey?style=plastic&logo=unsplash">
+><a href="https://unsplash.com/@jyotirmoydotin">
+>        <img src="https://img.shields.io/badge/-_jyotirmoydotin_-grey?style=plastic&logo=unsplash">
 ></a>
-><a href="https://instagram.com/jyotirmoy_barman_">
->        <img src="https://img.shields.io/badge/-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
+><a href="https://instagram.com/jyotirmoydotin">
+>        <img src="https://img.shields.io/badge/-_jyotirmoydptin_-red?style=plastic&logo=instagram&logoColor=white">
 ></a>
-><a href="https://twitter.com/jyotirmoytweet">
->        <img src="https://img.shields.io/badge/-_jyotirmoytweet_-blue?style=plastic&logo=twitter&logoColor=white">
+><a href="https://twitter.com/jyotirmoydotin">
+>        <img src="https://img.shields.io/badge/-_jyotirmoydotin_-blue?style=plastic&logo=twitter&logoColor=white">
 ></a>
 ><a href="https://linktr.ee/jyotirmoybarman">
 >        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-green?style=plastic&logo=linktree&logoColor=white">
