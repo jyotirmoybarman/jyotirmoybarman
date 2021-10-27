@@ -142,13 +142,13 @@
 >        <img src="https://img.shields.io/badge/-_jyotirmoydotin_-grey?style=plastic&logo=unsplash">
 ></a>
 ><a href="https://instagram.com/jyotirmoydotin">
->        <img src="https://img.shields.io/badge/-_jyotirmoydptin_-red?style=plastic&logo=instagram&logoColor=white">
+>        <img src="https://img.shields.io/badge/-_jyotirmoydotin_-red?style=plastic&logo=instagram&logoColor=white">
 ></a>
 ><a href="https://twitter.com/jyotirmoydotin">
 >        <img src="https://img.shields.io/badge/-_jyotirmoydotin_-blue?style=plastic&logo=twitter&logoColor=white">
 ></a>
-><a href="https://linktr.ee/jyotirmoybarman">
->        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-green?style=plastic&logo=linktree&logoColor=white">
+><a href="https://jyotirmoy.in">
+>        <img src="https://img.shields.io/badge/-_jyotirmoy.in_-green?style=plastic&logo=linktree&logoColor=white">
 ></a>
 ></p>
 
