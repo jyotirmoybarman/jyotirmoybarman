@@ -124,7 +124,7 @@
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotin&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotin&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> 
+<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotin&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotin&border_radius=30&layout=compact&hide_border=true&title_color=fff&text_color=fff"> 
 
 ## ʀᴇᴘᴏsɪᴛᴏʀʏ
 
