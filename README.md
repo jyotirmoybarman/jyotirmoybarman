@@ -56,6 +56,7 @@
 ><img src="pic/GitHub.png" width=40px height=40px>
 ><img src="pic/nano.png" width=40px height=40px> 
 ><img src="pic/gitlab.png" width=40px height=40px>
+><img src="pic/bash.png" width=40px height=40px>
 ></p>
 
 ><details>
