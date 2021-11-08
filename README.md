@@ -91,6 +91,8 @@
 ### ᴛᴇᴄʜɴɪᴄᴀʟ sᴋɪʟʟs
 
 >- Data structure and Algorithms
+>- Source Control (Git and GitHub)
+>- Text Editor (Vim and Vscode)
 
 ### ᴏᴛʜᴇʀ sᴋɪʟʟs
 
