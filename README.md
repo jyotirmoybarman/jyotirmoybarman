@@ -156,12 +156,12 @@
 
 ## ᴅᴏɴᴀᴛᴇ
 
->- Support me by donating 💰
+>- Support me by DONATING 💰
 
 ><p align="center">
-><img src="https://img.shields.io/badge/-ʙᴜʏ_ᴍᴇ_ᴀ_ᴄᴏғғᴇᴇ-yellow?style=plastic&logo=buy-me-a-coffee&logoColor=white"> 
-><img src="https://img.shields.io/badge/-ᴘʜᴏɴᴇᴘᴇ-purple?style=plastic&logo=phonepe&logoColor=white"> 
-><img src="https://img.shields.io/badge/-_ᴇᴛʜᴇʀᴇᴜᴍ_-3C3C3D?style=plastic&logo=Ethereum"> 
-><img src="https://img.shields.io/badge/_ʙɪᴛᴄᴏɪɴ_-000000?style=plastic&logo=bitcoin&logoColor=white"> 
-><img src="https://img.shields.io/badge/-🏦_ʙᴀɴᴋ_-blue?style=plastic&logo=&logoColor=white">
+>
+>- `By Me a Coffee` `jyotirmoydotin`
+>- `Phonepe - UPI` `jyotirmoy.sbi@axl`
+>- <img src="https://img.shields.io/badge/-_ᴇᴛʜᴇʀᴇᴜᴍ_-3C3C3D?style=flat&logo=Ethereum">
+>- <img src="https://img.shields.io/badge/_ʙɪᴛᴄᴏɪɴ_-000000?style=flat&logo=bitcoin&logoColor=white"> 
 ></p>
