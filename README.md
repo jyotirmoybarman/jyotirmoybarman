@@ -37,11 +37,14 @@
 ### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
 ><p align="center">
-><img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
-><img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+><img src="https://img.shields.io/badge/Macbook_air_m1-E50914?style=for-the-badge&logo=apple&color=grey&logoColor=white">
+><img src="https://img.shields.io/badge/vscode-purple?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
+><img src="https://img.shields.io/badge/xcode-blue?style=for-the-badge&logo=xcode&logoColor=white">
 ><img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white">
 ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 ></p>
+
+
 
 ### ᴇxᴘᴇʀɪᴇɴᴄᴇ 
 

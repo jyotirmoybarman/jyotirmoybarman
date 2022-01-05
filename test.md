@@ -35,7 +35,7 @@
 ### ᴡᴏʀᴋsᴘᴀᴄᴇ
 
 ><p align="center">
-><img src="https://img.shields.io/badge/Macbook_air_m1x-E50914?style=for-the-badge&logo=apple&color=grey&logoColor=white">
+><img src="https://img.shields.io/badge/Macbook_air_m1-E50914?style=for-the-badge&logo=apple&color=grey&logoColor=white">
 ><img src="https://img.shields.io/badge/vscode-purple?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 ><img src="https://img.shields.io/badge/xcode-blue?style=for-the-badge&logo=xcode&logoColor=white">
 ><img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white">
