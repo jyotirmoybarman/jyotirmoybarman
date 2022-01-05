@@ -161,11 +161,3 @@
 
 >- Support me by DONATING 💰
 
-><p align="center">
->
->- `By Me a Coffee` `jyotirmoydotin`
-> <img src="https://img.shields.io/badge/_PHONEPE_-purple?style=flat&logo=phonepe&logoColor=white">
-> `jyotirmoy.sbi@axl`
->- <img src="https://img.shields.io/badge/-_ᴇᴛʜᴇʀᴇᴜᴍ_-3C3C3D?style=flat&logo=Ethereum">
->- <img src="https://img.shields.io/badge/_ʙɪᴛᴄᴏɪɴ_-000000?style=flat&logo=bitcoin&logoColor=white"> 
-></p>
