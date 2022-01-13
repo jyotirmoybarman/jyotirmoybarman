@@ -49,6 +49,7 @@
 ### ᴇxᴘᴇʀɪᴇɴᴄᴇ 
 
 ><p align="center">
+><img src="pic/macos.png" width=40px height=40px>
 ><img src="pic/linux.png" width=40px height=40px>
 ><img src="pic/Cpp.png" width=40px height=40px>
 ><img src="pic/python.png" width=40px height=40px> 
@@ -61,7 +62,6 @@
 ><img src="pic/gitlab.png" width=40px height=40px>
 ><img src="pic/bash.png" width=40px height=40px>
 ><img src="pic/vscode.png" width=40px height=40px>
-><img src="pic/macos.png" width=40px height=40px>
 ></p>
 
 ><details>
