@@ -70,6 +70,7 @@
 >## Operating System
 >
 >- Lunix (Termux)
+>- Mac OS
 >
 >## Programming Language
 >
