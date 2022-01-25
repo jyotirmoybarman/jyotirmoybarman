@@ -5,16 +5,9 @@
     color: white;
     padding-bottom: 8pt;
     font-family: 'Neonderthaw', cursive;
+    font-size: 30px;
 }
-.Blog{
-    background: rgba(131, 131, 131, 0.726);
-    color: rgb(255, 255, 255);
-    text-align:left;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    padding-left: 20px;
-    font-weight:lighter;
-    border-radius: 30px;
-}
+
 #h{
     background: rgba(131, 131, 131, 0.726)
 }
@@ -28,9 +21,21 @@ main{
 .link{
     background: rgba(255, 255, 255, 0);
     text-align: center; 
-    border-radius: 40%;
-    padding-top: 5px; 
+    padding-bottom: 5px; 
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    text-align: left;
+    background: white;
+    color: black;
+    padding-left: 20px;
+    font-family:fantasy;
+}
+p{
+    text-align: center;
+    background: white;
+    color: black;
+    font-family:fantasy;
 }
 footer{
     padding-top: 10px;
