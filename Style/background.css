@@ -14,7 +14,10 @@
 main{
     background: white;
     text-align: center; 
-    border-radius: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding-top: 5px;
     min-height: 100vh;
 }
@@ -34,44 +37,84 @@ h2{
 p{
     text-align: center;
     background: rgba(255, 255, 255, 0);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 23px;
-    padding: 20px;
+    padding: 10px;
     font-family:'Handlee', cursive;
 }
 footer{
     padding-top: 10px;
     background: rgb(255, 255, 255);
     text-align: center; 
-    border-radius: none;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding:5px
     min-height: 5vh;
 }
 
 a{
     text-decoration: none;
-    background: white;
+    background: transparent;
     color: black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 a:hover{
     color: blue;
+    font-family: monospace;
 }
 a:active{
     color: rgb(61, 190, 241);
     background: rgba(61, 190, 241, 0.384);
     border-radius: 10px;
 }
-img{
+footer img{
     border-radius: 20px;
     width: 50px;
     height: 50px;
 }
-.img{
-    background-image: url('https://images.unsplash.com/photo-1557683311-eac922347aa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c29saWR8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60');
-    background-size: 100%;
-    opacity: 0.7;
-    filter: drop-shadow(10px 10px 10px #222);
-    image-orientation: flip;
+
+
+
+/*-----------------Images gallery--------------------*/
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    background-color: transparent;
+    padding-bottom: 15px;
+    
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+    background-color: transparent;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
     border-radius: 20px;
-}
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  /*--------------------------------------------*/
