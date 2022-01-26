@@ -4,7 +4,7 @@
 .banner{
     color: white;
     padding-bottom: 8pt;
-    font-family: 'Neonderthaw', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 30px;
 }
 
@@ -29,14 +29,14 @@ h2{
     background: white;
     color: black;
     padding-left: 20px;
-    font-family:'Great Vibes';
+    font-family:'Poiret One', cursive;
 }
 p{
     text-align: center;
     background: white;
     color: black;
     font-size: 23px;
-    font-family:Cedarville Cursive;
+    font-family:'Handlee', cursive;
 }
 footer{
     padding-top: 10px;
@@ -64,4 +64,5 @@ a:active{
 img{
     border-radius: 20px;
     width: 50px;
+    height: 50px;
 }
