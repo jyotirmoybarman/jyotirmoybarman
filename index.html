@@ -10,6 +10,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com"> 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@2.14.2/dist/full.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2/dist/tailwind.min.css" rel="stylesheet" type="text/css" />
+
     <style>
         .list{
             padding-left: 2.5rem;
@@ -20,28 +23,77 @@
             font-size: small;
         }
         .name1{
-            font-size:x-large;
+            
             padding: 10px;
+        }
+        button{
+            position:static;
+        }
+        .navigation{
+            flex-wrap: wrap;
+            align-items: stretch;
+        }
+        @media only screen and (max-width: 640px) {
+            .resume{
+                display: none;
+            }
         }
     </style>
 </head>
 <body class="bg-black text-white">
-        <nav class=" md:flex sm:flex-row justify-between sticky">
-            <span class="px-10 py-4 pt-4 font-extralight ">JYOTIRMOY</span>
-            <button data-collapse-toggle="mobile-menu" type="button" class=" md:hidden ml-3 text-gray-400 hover:text-gray-900 focus:outline-none rounded-lg  items-end justify-end" aria-controls="mobile-menu-2" aria-expanded="false">
+        <nav class=" flex sm:flex-nowrap flex-wrap navigation justify-between sticky">
+            <span class="px-10 py-4 pt-4 font-extralight " >JYOTIRMOY</span>
+            <button  data-collapse-toggle="mobile-menu" type="button" class=" mr-5 md:hidden ml-3 text-gray-400 hover:text-gray-900 focus:outline-none rounded-lg  items-end justify-end" aria-controls="mobile-menu-2" aria-expanded="false">
                 <span class="sr-only text-white">Open main menu</span>
-                <svg class="pt-2 w-6 h-6 " fill="white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
-                <!--<svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>-->
+                <svg class=" w-6 h-6 " fill="white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+                <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
             </button>
             <div class="hidden md:block w-full md:w-auto md:ml-0" id="mobile-menu">
-                <ul class="list lg:px-28 md:px-28 sm:px-10 py-4  justify-between font-semibold flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium ">
-                    <li class="cursor-pointer bg-blue-700 md:bg-transparent container text-white block pl-3 pr-4 py-2 md:text-blue-400 md:p-0 rounded" aria-current="page">Home</li>
-                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white hover:rounded md:hover:bg-transparent pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
-                        <a href="Blog.html">Blog</a>
+                <ul class="list lg:px-28 md:px-28 sm:px-10 py-4  justify-between font-semibold flex-col md:flex-row flex sm:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium ">
+                    <a href="index.html"class="cursor-pointer bg-blue-700 md:bg-transparent text-white block pl-3 pr-4 py-2 md:text-blue-400 md:p-0 rounded" aria-current="page">
+                        <button>
+                            Home
+                        </button>
+                    </a>
+
+                    <!-- BLOG -->
+                    <a href="blog.html" class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white hover:rounded md:hover:bg-transparent pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
+                        <button>
+                            Blog
+                        </button>
+                    </a>
+
+                    <!-- RESUME -->
+                    <a href="blog.html" class="resume cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white hover:rounded md:hover:bg-transparent pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
+                        <button>
+                            Resume
+                        </button>
+                    </a>
+                    <li tabindex="0" class=" cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0 collapse collapse-arrow sm:hidden">
+                        <div class="collapse-title">
+                            Resume
+                        </div>
+                        <div class="collapse-content flex flex-row space-x-2 "> 
+                            <a href="blog.html" class="cursor-pointer rounded text-black bg-white shadow-xl hover:rounded md:hover:bg-transparent pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
+                                <button>
+                                    Preview
+                                </button>
+                            </a>
+                            <a href="blog.html" class="cursor-pointer rounded text-black bg-white shadow-xl hover:rounded md:hover:bg-transparent pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
+                                <button>
+                                    Download
+                                </button>
+                            </a>
+                        </div>
                     </li>
-                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0 ">Resume</li>
-                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0 md:text-center">Photography</li>
-                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0">Contact</li>
+
+                    <!-- PHOTOGRAPHY -->
+                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white md:hover:bg-transparent sm:border-0 block pl-3 pr-4 py-2 sm:hover:text-blue-400 sm:p-0 sm:text-center">Photography</li>
+                    
+                    <!-- CONTACT-->
+                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0">
+                        Contact
+                    </li>
                 </ul>
             </div>
         </nav>
@@ -49,27 +101,16 @@
         <div class="justify-center flex text-slate-400 sm:text-2xl name">
             HI, I'M JYOTIRMOY
         </div>
-        <div class=" flex justify-center text-center lg:text-9xl sm:text-7xl name1" style="font-family: Nunito;">
+        <div class=" flex justify-center text-center text-4xl lg:text-9xl sm:text-7xl name1" style="font-family: Nunito;">
             Photographer, Content Creator, & Programmer
         </div>
-        <div class="flex text-slate-300 justify-center lg:text-4xl sm:text-2xl text-center md:pt-20 lg:pt-20 sm:pt-5 " style="font-family: Nunito;">
+        <div class="flex text-slate-300 justify-center lg:text-4xl sm:text-2xl text-center md:pt-20 sm:pt-5 sm:pb-0 pb-8 " style="font-family: Nunito;">
             Welcome to my personal website - <br> a place to share my photography, <br> ideas, pursuits and projects.
         </div>
     </div>
-    <!--
-    <div class="flex-col items-center p-44 space-y-6 cursor-default   bg-white">
-        <div class="justify-center flex text-slate-400">
-            HI, I'M JYOTIRMOY
-        </div>
-        <div class=" flex justify-center text-center text-9xl text-black overflow-hidden" style="font-family: Nunito;">
-            Photographer, Content Creator, & Programmer
-        </div>
-        <div class="flex text-slate-300 justify-center text-4xl  text-center pt-20 " style="font-family: Nunito;">
-            Welcome to my personal website - <br> a place to share my photography, <br> ideas, pursuits and projects.
-        </div>
-    </div>
-    <div class="bg-white "></div>
-    -->
+    
+    
+   
     <script src="https://unpkg.com/flowbite@1.4.2/dist/flowbite.js"></script>
 </body>
 </html>
