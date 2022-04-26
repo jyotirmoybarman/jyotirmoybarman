@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>test site 1</title>
+    <title>JYOTIRMOY</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://unpkg.com/flowbite@1.4.2/dist/flowbite.min.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com"> 
@@ -37,6 +37,12 @@
             .resume{
                 display: none;
             }
+            .blog{
+                display: none;
+            }
+        }
+        .collapse-title, .collapse>input[type=checkbox]{
+            min-height: 0px;
         }
     </style>
 </head>
@@ -49,37 +55,64 @@
                 <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
             </button>
             <div class="hidden md:block w-full md:w-auto md:ml-0" id="mobile-menu">
-                <ul class="list lg:px-28 md:px-28 sm:px-10 py-4  justify-between font-semibold flex-col md:flex-row flex sm:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium ">
-                    <a href="index.html"class="cursor-pointer bg-blue-700 md:bg-transparent text-white block pl-4 pr-4 py-2 md:text-blue-400 md:p-0 rounded" aria-current="page">
+                <ul class="list lg:px-28 md:px-16 sm:px-10 py-4  justify-between font-semibold flex-col md:flex-row flex sm:space-x-8 md:text-sm sm:font-extralight text-sm">
+                    <a href="index.html"class="mb-3 cursor-pointer bg-blue-700 md:bg-transparent text-white block pl-4 pr-4 py-2 md:text-blue-400 md:p-0 rounded" aria-current="page">
                         <button>
                             Home
                         </button>
                     </a>
 
                     <!-- BLOG -->
-                    <a href="blog.html" class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white hover:rounded md:hover:bg-transparent pl-4 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
+                    <a href="" class="blog cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
                         <button>
                             Blog
                         </button>
                     </a>
+                    <li tabindex="0" class=" cursor-pointer text-gray-500 hover:bg-blue-600 rounded hover:text-white collapse collapse-arrow  sm:hidden">
+                        <div class="collapse-title">
+                            Blog
+                        </div>
+                        <div class="collapse-content  grid grid-cols-2 gap-2 content-center text-center"> 
+                            <a href="https://jyotirmoydotdev.hashnode.dev" class="cursor-pointer rounded text-black bg-slate-200 shadow-2xl pl-3 pr-4 py-2 m-0" >
+                                <button>
+                                    Hashnode
+                                </button>
+                            </a>
+                            <a href="" class="cursor-pointer rounded text-black bg-slate-200 shadow-2xl  pl-3 pr-4 py-2 m-0" >
+                                <button>
+                                    Dev.to
+                                </button>
+                            </a>
+                            <a href="" class="cursor-pointer rounded text-black bg-slate-200 shadow-2xl  pl-3 pr-4 py-2 m-0" >
+                                <button>
+                                    Medium
+                                </button>
+                            </a>
+                            <a href="" class="cursor-pointer rounded text-black bg-slate-200 shadow-2xl  pl-3 pr-4 py-2 m-0" >
+                                <button>
+                                    Blogs
+                                </button>
+                            </a>
+                        </div>
+                    </li>
 
                     <!-- RESUME -->
-                    <a href="blog.html" class="resume cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white hover:rounded md:hover:bg-transparent md:hover:text-blue-400 md:p-0" >
+                    <a href="https://docs.google.com/document/d/1-WyUjeqWjkABGwKzzuVmBI2F40GlgcZKcpbqNdoXUNQ/view?usp=sharing" class="resume cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
                         <button>
                             Resume
                         </button>
                     </a>
-                    <li tabindex="0" class=" cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white md:hover:bg-transparent block  md:hover:text-blue-400 md:p-0 collapse collapse-arrow sm:hidden">
+                    <li tabindex="0" class=" cursor-pointer text-gray-500 hover:bg-blue-600 rounded hover:text-white collapse collapse-arrow sm:hidden">
                         <div class="collapse-title">
                             Resume
                         </div>
-                        <div class="collapse-content flex flex-row space-x-2 "> 
-                            <a href="blog.html" class="cursor-pointer rounded text-black bg-white shadow-xl hover:rounded md:hover:bg-transparent pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
+                        <div class="collapse-content grid grid-cols-2 gap-2 text-center  "> 
+                            <a href="https://docs.google.com/document/d/1-WyUjeqWjkABGwKzzuVmBI2F40GlgcZKcpbqNdoXUNQ/view?usp=sharing" class="cursor-pointer rounded text-black bg-white shadow-2xl hover:rounded pl-3 pr-4 py-2" >
                                 <button>
                                     Preview
                                 </button>
                             </a>
-                            <a href="blog.html" class="cursor-pointer rounded text-black bg-white shadow-xl hover:rounded md:hover:bg-transparent pl-3 pr-4 py-2 md:hover:text-blue-400 md:p-0" >
+                            <a href="" class="cursor-pointer rounded text-black bg-white shadow-2xl pl-3 pr-4 py-2" >
                                 <button>
                                     Download
                                 </button>
@@ -88,7 +121,32 @@
                     </li>
 
                     <!-- PHOTOGRAPHY -->
-                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white md:hover:bg-transparent block pl-4 pr-4 py-2 md:hover:text-blue-400 md:p-0">Photography</li>
+                    <a href="" class="blog cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
+                        <button>
+                            Photography
+                        </button>
+                    </a>
+                    <li tabindex="0" class=" cursor-pointer text-gray-500 hover:bg-blue-600 rounded hover:text-white collapse collapse-arrow  sm:hidden">
+                        <div class="collapse-title">
+                            <a href="photography.html">Photography</a>
+                        </div>
+                        <div class="collapse-content  grid grid-cols-2 gap-2 content-center text-center"> 
+                            <a href="https://jyotirmoydotdev.hashnode.dev" class="cursor-pointer rounded text-black bg-slate-200 shadow-2xl pl-3 pr-4 py-2 m-0" >
+                                <button>
+                                    Unsplash
+                                </button>
+                            </a>
+                            <a href="" class="cursor-pointer rounded text-black bg-slate-200 shadow-2xl  pl-3 pr-4 py-2 m-0" >
+                                <button>
+                                    NFTs
+                                </button>
+                            </a>
+                        </div>
+                    </li>
+
+                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white md:hover:bg-transparent md:border-0 block pl-4 pr-4 py-2 md:hover:text-blue-400 md:p-0">
+                        Projects
+                    </li>
                     
                     <!-- CONTACT-->
                     <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-4 pr-4 py-2 md:hover:text-blue-400 md:p-0">
