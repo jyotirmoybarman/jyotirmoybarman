@@ -16,6 +16,8 @@
     <link href="https://cdn.jsdelivr.net/npm/daisyui@2.14.2/dist/full.css" rel="stylesheet" type="text/css" />
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2/dist/tailwind.min.css" rel="stylesheet" type="text/css" />
 
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css'>
+
     <style>
         .list{
             padding-left: 2.5rem;
@@ -37,10 +39,7 @@
             align-items: stretch;
         }
         @media only screen and (max-width: 640px) {
-            .resume{
-                display: none;
-            }
-            .blog{
+            .mobile{
                 display: none;
             }
         }
@@ -64,7 +63,7 @@
                 <svg class=" w-6 h-6 " fill="white" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
                 <svg class="hidden w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
             </button>
-            <div class="hidden md:block w-full md:w-auto md:ml-0" id="mobile-menu">
+            <div class="hidden md:block w-full md:w-auto md:ml-0 sm:min-h-0 min-h-screen relative" id="mobile-menu">
                 <ul class="list lg:px-28 md:px-16 sm:px-10 py-4  justify-between font-semibold flex-col md:flex-row flex sm:space-x-8 md:text-sm text-sm">
                     <a href="#home"class="mb-3 cursor-pointer bg-blue-700 md:bg-transparent text-white block pl-4 pr-4 py-2 md:text-blue-400 md:p-0 rounded" aria-current="page">
                         <button>
@@ -73,7 +72,7 @@
                     </a>
 
                     <!-- BLOG -->
-                    <a href="#blog" class="blog cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
+                    <a href="#blog" class="mobile cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
                         <button>
                             Blog
                         </button>
@@ -107,7 +106,7 @@
                     </li>
 
                     <!-- RESUME -->
-                    <a href="https://docs.google.com/document/d/1-WyUjeqWjkABGwKzzuVmBI2F40GlgcZKcpbqNdoXUNQ/view?usp=sharing" class="resume cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
+                    <a href="https://docs.google.com/document/d/1-WyUjeqWjkABGwKzzuVmBI2F40GlgcZKcpbqNdoXUNQ/view?usp=sharing" class="mobile cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
                         <button>
                             Resume
                         </button>
@@ -131,7 +130,7 @@
                     </li>
 
                     <!-- PHOTOGRAPHY -->
-                    <a href="" class="blog cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
+                    <a href="" class="mobile cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
                         <button>
                             Photography
                         </button>
@@ -159,9 +158,55 @@
                     </li>
                     
                     <!-- CONTACT-->
-                    <li class="cursor-pointer text-gray-500 hover:bg-blue-600 hover:rounded hover:text-white border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-4 pr-4 py-2 md:hover:text-blue-400 md:p-0">
-                        Contact
+                    <a href="https://docs.google.com/document/d/1-WyUjeqWjkABGwKzzuVmBI2F40GlgcZKcpbqNdoXUNQ/view?usp=sharing" class="mobile cursor-pointer text-gray-500 bg-transparent hover:text-blue-400" >
+                        <button>
+                            Contact
+                        </button>
+                    </a>
+                    <li tabindex="0" class=" cursor-pointer text-gray-500 hover:bg-blue-600 rounded hover:text-white collapse collapse-arrow  sm:hidden ">
+                        <div class="collapse-title">
+                            Contact
+                        </div>
+                        <div class="collapse-content grid grid-cols-2 gap-2   "> 
+                            <a href="" class="cursor-pointer rounded text-black bg-white shadow-2xl pl-3 pr-4 py-2" >
+                                <button class="grid grid-cols-2 justify-self-center">
+                                    <img src="https://www.flaticon.com/svg/vstatic/svg/5070/5070390.svg?token=exp=1651173502~hmac=8e4de58b7360181187dc387783478dc0" class="h-5 w-5" alt="">
+                                    <div>Email</div>
+                                </button>
+                            </a>
+                            <a href="" class="cursor-pointer rounded text-black bg-white shadow-2xl pl-3 pr-4 py-2" >
+                                <button class="grid grid-cols-2 justify-self-center">
+                                    <img src="https://www.flaticon.com/svg/vstatic/svg/6422/6422202.svg?token=exp=1651174684~hmac=d49a133e9cabf33a990bc94d218f4d57" class="h-5 w-5" alt="">
+                                    <div>Linkedin</div>
+                                </button>
+                            </a>
+                        </div>
                     </li>
+                    <div class="grid grid-cols-3 gap-2 pl-3 pr-4 py-2 justify-items-center opacity-50">
+                        <a href="https://instagram.com/jyotirmoydotdev">
+                            <button class="rounded pl-3 pr-4 py-2 invert">
+                                <img src="https://www.flaticon.com/svg/vstatic/svg/6422/6422200.svg?token=exp=1651176872~hmac=f1901074c08e30659556d67d8a783a7f" class="h-6 w-6" alt="">
+                            </button>
+                        </a>
+                        <a href="">
+                            <button class="rounded pl-3 pr-4 py-2 invert">
+                                <img src="https://www.flaticon.com/svg/vstatic/svg/6422/6422210.svg?token=exp=1651177447~hmac=771811bd3896339922c5f7867acc772b" class="h-6 w-6" alt="">
+                            </button>
+                        </a>
+                        <a href="">
+                            <button class="rounded pl-3 pr-4 py-2 invert">
+                                <img src="https://www.flaticon.com/svg/vstatic/svg/6424/6424084.svg?token=exp=1651177491~hmac=521cfc4ecff89c58229ad2d856836296" class="h-6 w-6" alt="">
+                            </button>
+                        </a>
+
+                    </div
+                    <div class="sm:hidden pt-10 absolute bottom-0">
+                        <div class="p-3 pl-5 text-gray-500 text-center" style="font-family: Nunito:wght@500;">
+                            Current Favrouite Song 
+                        </div>
+                        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3KyKxJ4P3pVCgaZwaq2rUC?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                    </div>
+
                 </ul>
             </div>
     </nav>
