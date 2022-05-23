@@ -6,9 +6,9 @@
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-INDIAN-blue?logo=h&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/Twitter-jyotirmoytweet-blue?logo=twitter&style=flat">
-<a href="mailto:j.barman.personal@gmail.com"> 
-<img src="https://img.shields.io/badge/Gmail-j.barman.personal@gmail.com-blue?logo=gmail&logoColor=1d9bf0&style=flat">
+<img src="https://img.shields.io/badge/Twitter-jyotirmoydotdev-blue?logo=twitter&style=flat">
+<a href="mailto:jyotirmoydotdev@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-jyotirmoydotdev@gmail.com-blue?logo=gmail&logoColor=1d9bf0&style=flat">
 </a><br/> </p>
 
 ## ᴄᴏɴᴛᴇɴᴛ
@@ -23,7 +23,6 @@
 >- [ᴛɪᴍᴇʟɪɴᴇ](https://github.com/jyotirmoybarman#ᴛɪᴍᴇʟɪɴᴇ)
 >- [ʀᴇsᴜᴍᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇsᴜᴍᴇ)
 >- [ɢɪᴛʜᴜʙ sᴛᴀᴛs](https://github.com/jyotirmoybarman/jyotirmoybarman#ɢɪᴛʜᴜʙ-sᴛᴀᴛs)
->- [ʀᴇᴘᴏsɪᴛᴏʀʏ](https://github.com/jyotirmoybarman/jyotirmoybarman#ʀᴇᴘᴏsɪᴛᴏʀʏ)
 >- [ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ](https://github.com/jyotirmoybarman/jyotirmoybarman#ғɪɴᴅ-ᴍᴇ-ᴏɴ-ᴛʜᴇ-ᴡᴇʙ)
 >- [ᴅᴏɴᴀᴛᴇ](https://github.com/jyotirmoybarman/jyotirmoybarman#ᴅᴏɴᴀᴛᴇ)
 >
@@ -64,9 +63,19 @@
 ><img src="pic/nano.png" width=40px height=40px> 
 ><img src="pic/gitlab.png" width=40px height=40px>
 ><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width=40px height=40px>
-><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width=50px height=40px>
-><img src="https://code.visualstudio.com/assets/images/code-stable.png" width=40px height=40px>
-><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width=95px height=40px>
+><img src="pic/html-5.png" width=40px height=40px>
+><img src="pic/css-3.png" width=40px height=40px>
+><img src="pic/java-script.png" width=40px height=40px>
+><img src="pic/vscode.png" width=40px height=40px>
+><img src="pic/tailwind-css.png" width=60px height=35px>
+><img src="pic/flutter-logo.png" width=40px height=40px>
+><img src="pic/Solidity_logo.png" width=30px height=40px>
+><img src="pic/dart.png" width=40px height=40px>
+><img src="pic/truffle.svg" width=40px height=40px>
+><img src="pic/ganache.svg" width=40px height=40px>
+><img src="pic/hardhat.svg" width=40px height=40px>
+><img src="pic/android-studio.png" width=40px height=40px>
+><img src="pic/xcode.png" width=40px height=40px>
 ></p>
 
 ><details>
@@ -170,29 +179,25 @@
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoybarman&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoybarman&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> 
+<img src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&border_radius=30&show_icons=false&theme=github_darkb&line_height=25&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&border_radius=30&layout=compact&hide_border=true&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff"> 
 
-## ʀᴇᴘᴏsɪᴛᴏʀʏ
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Cpp-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoybarman&repo=Python-3-Language&border_radius=30&bg_color=90,0098f7ff,464bffff&title_color=fff&text_color=fff&layout=compact&hide_border=true)](https://github.com/jyotirmoybarman/Cpp-Language)
 
 ## ғɪɴᴅ ᴍᴇ ᴏɴ ᴛʜᴇ ᴡᴇʙ 
-- Learning in public [Twitter](https://twitter.com/jyotirmoytweet?s=08) 🎥
+- Learning in public [Twitter](https://twitter.com/jyotirmoydotdev?s=08) 🎥
 - Sharing Knowledge with my [Articles](https://jyotirmoy.hashnode.dev/) 📰
-- Hangout with me in [Instagram](https://instagram.com/jyotirmoy_barman_) 🎮
+- Hangout with me in [Instagram](https://instagram.com/jyotirmoydotdev) 🎮
 <p align="center">
-<a href="https://github.com/jyotirmoybarman/">
-        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-grey?style=plastic&logo=github">
+<a href="https://github.com/jyotirmoydotdev/">
+        <img src="https://img.shields.io/badge/-_jyotirmoydotdev_-grey?style=plastic&logo=github">
 </a>
-<a href="https://instagram.com/jyotirmoy_barman_">
-        <img src="https://img.shields.io/badge/-_jyotirmoy__barman__-red?style=plastic&logo=instagram&logoColor=white">
+<a href="https://instagram.com/jyotirmoydotdev">
+        <img src="https://img.shields.io/badge/-_jyotirmoydotdev_-red?style=plastic&logo=instagram&logoColor=white">
 </a>
-<a href="https://twitter.com/jyotirmoytweet">
-        <img src="https://img.shields.io/badge/-_jyotirmoytweet_-blue?style=plastic&logo=twitter&logoColor=white">
+<a href="https://twitter.com/jyotirmoydotdev">
+        <img src="https://img.shields.io/badge/-_jyotirmoydotdev_-blue?style=plastic&logo=twitter&logoColor=white">
 </a>
-<a href="https://linktr.ee/jyotirmoybarman">
-        <img src="https://img.shields.io/badge/-_jyotirmoybarman_-green?style=plastic&logo=linktree&logoColor=white">
+<a href="https://linktr.ee/jyotirmoydotdev">
+        <img src="https://img.shields.io/badge/-_jyotirmoydotdev_-green?style=plastic&logo=linktree&logoColor=white">
 </a>
 </p>
 
