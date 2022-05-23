@@ -41,12 +41,6 @@
 ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 ></p>
 
-><p align="center">
-><img src="https://img.shields.io/badge/redmi_note_8_pro-E50914?style=for-the-badge&logo=Xiaomi&color=orange&logoColor=white"> 
-><img src="https://img.shields.io/badge/Termux-E50914?style=for-the-badge&logo=linux&color=black&logoColor=white">   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-><img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white">
-><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-></p>
 
 ### ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
@@ -76,6 +70,10 @@
 ><img src="pic/hardhat.svg" width=40px height=40px>
 ><img src="pic/android-studio.png" width=40px height=40px>
 ><img src="pic/xcode.png" width=40px height=40px>
+><img src="pic/docker.png" width=60px height=40px>
+><img src="pic/postman.png" width=40px height=40px>
+><img src="pic/figma.png" width=40px height=40px>
+><img src="pic//pixelmatorpro.png" width=40px height=40px>
 ></p>
 
 ><details>
