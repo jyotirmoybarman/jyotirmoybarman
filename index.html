@@ -252,7 +252,7 @@
        <div class="overflow-hidden grid snap-always snap-center bg-gradient-to-r from-cyan-300 via-blue-300 to-violet-300 text-black lg:min-h-full sm:max-h-full min-h-full sm:p-16 p-10 py-14 pb-20 " id="Resume">
         <div class="grid grid-cols-1">
             <div class=" sm:text-sm text-xs text-slate-500 font-extralight" style="font-family: Nunito ;">
-                <div class="flex justify-center p-5">Skills / Education / Source</div>
+                <div class="flex justify-center p-5">Skills</div>
                 <div class="flex sm:gap-4 gap-2 flex-wrap ">
                     <div class="flex flex-row grid-cols-2 sm:p-3 sm:px-5 p-1 bg-white sm:rounded-lg rounded shadow-xl  font-extralight items-center justify-items-start">
                         <div>
@@ -572,5 +572,28 @@
         
     </div>
     <script src="https://unpkg.com/flowbite@1.4.2/dist/flowbite.js"></script>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.8.3/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.8.3/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyBhNLLV5Alg3-H3XBerTj95pPUd-Z0P4fU",
+          authDomain: "jyotirmoy-barman.firebaseapp.com",
+          projectId: "jyotirmoy-barman",
+          storageBucket: "jyotirmoy-barman.appspot.com",
+          messagingSenderId: "61484738776",
+          appId: "1:61484738776:web:80cb8cfaea1b2d27dc0fad",
+          measurementId: "G-8J4KJNHMEF"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+      </script>`
 </body>
 </html>
