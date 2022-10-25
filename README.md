@@ -29,6 +29,7 @@
 - [Latest blog post](#latest-blog-posts)
 - [Question Solved](#question-solved)
 - [Stats](#stats)
+- [Education](#education)
 - [Suppport](#support)
 
 <hr>
@@ -53,12 +54,9 @@
 | [Leetcode](https://leetcode.com/jyotirmoydotdev/)  | <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="350"/>|
 | [Interviewbit](https://www.interviewbit.com/profile/jyotirmoydotdev/solved-problems) | 3 |
 | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | 3 |
-
-| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) |
-| -- |
-|5 Star Silver : C++ | 
-|2 Star Bronze : Problem solvin |
-|1 Star Bronze : 30 Day of Code |
+| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) |5 Star Silver : C++ | 
+||2 Star Bronze : Problem solving |
+||1 Star Bronze : 30 Day of Code |
 
 > Last updated on 26 Oct 2022
 
@@ -69,6 +67,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=default&theme=discord_old_blurple&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
 
 </p>
+
+## Education
+| Institution Name | Course | Year | Grade |
+| - | :-: | -| -|
+| Chandhighar University | Bachalor of Computer Application | July 2021 - June 2024 | |
+| Kendriya Vidyalaya Tura | Science | Jluy 2020 - June 2021 | 75 % |
 <hr>
 
 ## Support
