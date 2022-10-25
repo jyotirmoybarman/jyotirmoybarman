@@ -39,21 +39,23 @@
 
 ## Question Solved
 
-> Last updated on 25 Oct 2022
 - [Leetcode](https://leetcode.com/jyotirmoydotdev/) 
 <a href="https://github.com/jyotirmoydotdev/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="350"/>
 </a>
 
 - [Interviewbit](https://www.interviewbit.com/profile/jyotirmoydotdev/solved-problems) : 3
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) : 3
-- [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) 👇
-    - C++ 🥈 ⭐️⭐️⭐️⭐️⭐️
-    - Problem solving 🥉 ⭐️⭐️
-    - 30 Day of Code 🥉 ⭐️
+- [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) 🔻
+    - 5 Star Silver : C++
+    - 2 Star Bronze : Problem solving
+    - 1 Star Bronze : 30 Day of Code
 
+> Last updated on 26 Oct 2022
 <hr>
 
 ## Suppport
 
-<p><a href="https://www.buymeacoffee.com/jyotirmoydotdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jyotirmoydotdev" /></a><a href="https://ko-fi.com/jyotirmoydotdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jyotirmoydotdev" /></a></p><br><br>
+<p align="left">
+<a href="https://www.buymeacoffee.com/jyotirmoydotdev"> <img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a><a href="https://kofi.com/jyotirmoydotdev/"> <img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> <img align="center" src="https://img.shields.io/badge/jyotirmoydotdev@okicici-2875E3?style=for-the-badge&logo=googlepay&logoColor=white">
+</p>
