@@ -23,7 +23,17 @@
   </a>
 <hr>
 
-<h2 align="left">Languages and Tools:</h2>
+# Content
+
+- [Languages and Tools](https://github.com/jyotirmoydotdev/jyotirmoydotdev/edit/master/README.md#languages-and-tools)
+- Latest blog post
+- Question Solved
+- Stats
+- Suppport
+
+<hr>
+
+<h2 align="left">Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown,html,css,tailwind,mysql,docker,bash,git,github,linux,firebase" /> <!-- Skills image -->
@@ -38,18 +48,17 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Question Solved
+| Website | Question Solved | 
+| :------ | :------ | 
+| [Leetcode](https://leetcode.com/jyotirmoydotdev/)  | <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="350"/>|
+| [Interviewbit](https://www.interviewbit.com/profile/jyotirmoydotdev/solved-problems) | 3 |
+| [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | 3 |
 
-- [Leetcode](https://leetcode.com/jyotirmoydotdev/) 
-<a href="https://leetcode.com/jyotirmoydotdev">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="350"/>
-</a>
-
-- [Interviewbit](https://www.interviewbit.com/profile/jyotirmoydotdev/solved-problems) : 3
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) : 3
-- [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) 🔻
-    - 5 Star Silver : C++
-    - 2 Star Bronze : Problem solving
-    - 1 Star Bronze : 30 Day of Code
+| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) |
+| -- |
+|5 Star Silver : C++ | 
+|2 Star Bronze : Problem solvin |
+|1 Star Bronze : 30 Day of Code |
 
 > Last updated on 26 Oct 2022
 
