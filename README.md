@@ -78,7 +78,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 ## Education
 | Institution Name | Course | Year | Grade |
 | - | :-: | -| -|
-| Chandhighar University | Bachalor of Computer Application | July 2021 - June 2024 | |
+| Chandigarh University | Bachalor of Computer Application | July 2021 - June 2024 | |
 | Kendriya Vidyalaya Tura | Science | July 2020 - June 2021 | 75 % |
 <hr>
 
