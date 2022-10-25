@@ -23,7 +23,11 @@
   </a>
 <hr>
 
-# Total Question Solved in Each Platform
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Total Question Solved in Each Platform
 
 > Last updated on 25 Oct 2022
 - [Leetcode](https://leetcode.com/jyotirmoydotdev/) : 4
