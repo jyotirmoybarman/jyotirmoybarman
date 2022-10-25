@@ -23,7 +23,14 @@
   </a>
 <hr>
 
-## Blog posts
+<h2 align="left">Languages and Tools:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown,html,css,tailwind,mysql,docker,bash,git,github,linux,firebase" /> <!-- Skills image -->
+  </a>
+</p>
+
+## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [Read Articles and EBooks for Free](https://dev.to/jyotirmoydotdev/read-articles-and-ebooks-for-free-5gb9)
 - [Git for Termux](https://dev.to/jyotirmoydotdev/git-for-termux-g14)
@@ -33,10 +40,20 @@
 ## Question Solved
 
 > Last updated on 25 Oct 2022
-- [Leetcode](https://leetcode.com/jyotirmoydotdev/) : 4
+- [Leetcode](https://leetcode.com/jyotirmoydotdev/) 
+<a href="https://github.com/jyotirmoydotdev/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="400"/>
+</a>
+
 - [Interviewbit](https://www.interviewbit.com/profile/jyotirmoydotdev/solved-problems) : 3
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) : 3
 - [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) 👇
     - C++ 🥈 ⭐️⭐️⭐️⭐️⭐️
     - Problem solving 🥉 ⭐️⭐️
     - 30 Day of Code 🥉 ⭐️
+
+<hr>
+
+## Suppport
+
+<p><a href="https://www.buymeacoffee.com/jyotirmoydotdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jyotirmoydotdev" /></a><a href="https://ko-fi.com/jyotirmoydotdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jyotirmoydotdev" /></a></p><br><br>
