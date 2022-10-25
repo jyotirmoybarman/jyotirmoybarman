@@ -25,11 +25,11 @@
 
 # Content
 
-- [Languages and Tools](https://github.com/jyotirmoydotdev/jyotirmoydotdev/edit/master/README.md#languages-and-tools)
-- Latest blog post
-- Question Solved
-- Stats
-- Suppport
+- [Languages and Tools](#languages-and-tools)
+- [Latest blog post](#latest-blog-posts)
+- [Question Solved](#question-solved)
+- [Stats](#stats)
+- [Suppport](#support)
 
 <hr>
 
@@ -71,7 +71,7 @@
 </p>
 <hr>
 
-## Suppport
+## Support
 
 <p align="left">
 <a href="https://www.buymeacoffee.com/jyotirmoydotdev"> <img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a><a href="https://kofi.com/jyotirmoydotdev/"> <img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> <img align="center" src="https://img.shields.io/badge/jyotirmoydotdev@okicici-2875E3?style=for-the-badge&logo=googlepay&logoColor=white">
