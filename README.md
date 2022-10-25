@@ -21,3 +21,15 @@
   <a href="https://dev.to/jyotirmoydotdev">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
+<hr>
+
+# Total Question Solved in Each Platform
+
+> Last updated on 25 Oct 2022
+- [Leetcode](https://leetcode.com/jyotirmoydotdev/) : 4
+- [Interviewbit](https://www.interviewbit.com/profile/jyotirmoydotdev/solved-problems) : 3
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) : 3
+- [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) 👇
+    - C++ 🥈 ⭐️⭐️⭐️⭐️⭐️
+    - Problem solving 🥉 ⭐️⭐️
+    - 30 Day of Code 🥉 ⭐️
