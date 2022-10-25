@@ -25,6 +25,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Read Articles and EBooks for Free](https://dev.to/jyotirmoydotdev/read-articles-and-ebooks-for-free-5gb9)
+- [Git for Termux](https://dev.to/jyotirmoydotdev/git-for-termux-g14)
+- [Tumx for Termux ❕](https://dev.to/jyotirmoydotdev/tumx-for-termux-8ii)
 <!-- BLOG-POST-LIST:END -->
 
 ## Total Question Solved in Each Platform
