@@ -40,7 +40,7 @@
 ## Question Solved
 
 - [Leetcode](https://leetcode.com/jyotirmoydotdev/) 
-<a href="https://github.com/jyotirmoydotdev/leetcode-stats">
+<a href="https://leetcode.com/jyotirmoydotdev">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="350"/>
 </a>
 
@@ -52,6 +52,14 @@
     - 1 Star Bronze : 30 Day of Code
 
 > Last updated on 26 Oct 2022
+
+## Stats
+
+<p align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=default&theme=discord_old_blurple&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
+
+</p>
 <hr>
 
 ## Suppport
