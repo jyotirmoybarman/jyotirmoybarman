@@ -30,7 +30,7 @@
 - [Tumx for Termux ❕](https://dev.to/jyotirmoydotdev/tumx-for-termux-8ii)
 <!-- BLOG-POST-LIST:END -->
 
-## Total Question Solved in Each Platform
+## Question Solved
 
 > Last updated on 25 Oct 2022
 - [Leetcode](https://leetcode.com/jyotirmoydotdev/) : 4
