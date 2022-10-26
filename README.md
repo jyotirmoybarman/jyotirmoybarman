@@ -64,16 +64,12 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 |                                                                                  | Hard              | 0 Question Solved  |
 | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) |                   | 3 Question Solved  |
 | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice)    |                   | 3 Question Solved  |
-| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)                  | C++               | 5 Star Silver      |
+| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)                  | C++               | 5 Star Gold        |
 |                                                                                  | Problem solving   | 2 Star Bronze      |
 |                                                                                  | 30 Day of Code    | 1 Star Bronze      |
 | [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev)                      | Data Structure    | 0 Question Solved  |
 |                                                                                  | Algorithms        | 0 Question Solved  |
 |                                                                                  | Basic Programming | 0 Question Solved  |
-| [DSA 375 Question](https://docs.google.com/spreadsheets/d/1HBR7tM3EUI53Rw_jfQhVQEO5Uz0qXhdcNr3HiDb7OeQ/edit?usp=sharing) | Easy | 0 Question Solved |
-|                                                                                  | Medium            | 0 Question Solved  |
-|                                                                                  | Hard              | 0 Question Solved  |
-| [DSA 450 Question](https://docs.google.com/spreadsheets/d/1-GXSeQLTfiUcvSm9Brr2RT8eL_U7J8ujhKymI3osoT4/edit?usp=sharing) | | 0 Question Solved |
 
 > Last updated on 26 Oct 2022
 
