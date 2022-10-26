@@ -70,10 +70,10 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 | [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev)                      | Data Structure    | 0 Question Solved  |
 |                                                                                  | Algorithms        | 0 Question Solved  |
 |                                                                                  | Basic Programming | 0 Question Solved  |
-| [DSA 375 Question](https://docs.google.com/spreadsheets/d/1Pr_uuw9idltxEUEQtk5Z7AmVHYVvJZCf/edit?usp=sharing&ouid=112065097668598693812&rtpof=true&sd=true) | Easy | 0 Question Solved |
+| [DSA 375 Question](https://docs.google.com/spreadsheets/d/1HBR7tM3EUI53Rw_jfQhVQEO5Uz0qXhdcNr3HiDb7OeQ/edit?usp=sharing) | Easy | 0 Question Solved |
 |                                                                                  | Medium            | 0 Question Solved  |
 |                                                                                  | Hard              | 0 Question Solved  |
-| [DSA 450 Question](https://docs.google.com/spreadsheets/d/1Voq3Y6egAqcgRYgFzt9IJ2xcEyT0UIVC/edit?usp=sharing&ouid=112065097668598693812&rtpof=true&sd=true) | | 0 Question Solved |
+| [DSA 450 Question](https://docs.google.com/spreadsheets/d/1-GXSeQLTfiUcvSm9Brr2RT8eL_U7J8ujhKymI3osoT4/edit?usp=sharing) | | 0 Question Solved |
 
 > Last updated on 26 Oct 2022
 
