@@ -54,16 +54,22 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 - [Git for Termux](https://dev.to/jyotirmoydotdev/git-for-termux-g14)
 - [Tumx for Termux ❕](https://dev.to/jyotirmoydotdev/tumx-for-termux-8ii)
 <!-- BLOG-POST-LIST:END -->
-
+  
 ## Question Solved
-| Website | Question Solved | 
-| :------ | :------ | 
-| [Leetcode](https://leetcode.com/jyotirmoydotdev/)  | <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=jyotirmoydotdev&theme=dark" width="350"/>|
-| [Interviewbit](https://www.interviewbit.com/profile/jyotirmoydotdev/solved-problems) | 3 |
-| [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | 3 |
-| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev) |5 Star Silver : C++ | 
-||2 Star Bronze : Problem solving |
-||1 Star Bronze : 30 Day of Code |
+  
+|                                        Website                                   | Level             | Quetion Solved     |
+| -------------------------------------------------------------------------------- | ----------------- | ------------------ |
+| [Leetcode](https://leetcode.com/jyotirmoydotdev/)                                | Easy              | 4 Question Solved  |
+|                                                                                  | Medium            | 0 Question Solved  |
+|                                                                                  | Hard              | 0 Question Solved  |
+| [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) |                   | 3 Question Solved  |
+| [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice)    |                   | 3 Question Solved  |
+| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)                  | C++               | 5 Star Silver      |
+|                                                                                  | Problem solving   | 2 Star Bronze      |
+|                                                                                  | 30 Day of Code    | 1 Star Bronze      |
+| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev)                      | Data Structure    | 0 Question Solved  |
+|                                                                                  | Algorithms        | 0 Question Solved  |
+|                                                                                  | Basic Programming | 0 Question Solved  |
 
 > Last updated on 26 Oct 2022
 
