@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/jyotirmoydotdev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www/instgram.com/jyotirmoydotdev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="https://github.com/jyotirmoydotdev">
      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -21,6 +18,9 @@
   <a href="https://dev.to/jyotirmoydotdev">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
+  <a href="https://drive.google.com/file/d/1g9qOqAcfYN4Qhtx0LGBxr9ByVmpHIy4D/view?usp=share_link">
+    <img src="https://img.shields.io/badge/⇩_Resume-darkgreen?style=for-the-badge&logo=google-doc&logoColor=white&">
+  </a>
 <hr>
 
 <details><summary><h3>Content<h3></summary>
@@ -29,6 +29,7 @@
 - [Languages and Tools](#languages-and-tools)
 - [Latest blog posts](#latest-blog-posts)
 - [Question Solved](#question-solved)
+- [Projects](#projects)
 - [Stats](#stats)
 - [Education](#education)
 
@@ -73,7 +74,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 > Last updated on 26 Oct 2022
 
-## Project
+## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=whatsappme&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/whatsappme/)
   
 ## Stats
