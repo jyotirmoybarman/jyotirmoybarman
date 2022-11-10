@@ -73,11 +73,14 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 > Last updated on 26 Oct 2022
 
+## Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=whatsappme&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/whatsappme/)
+  
 ## Stats
 
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=default&theme=discord_old_blurple&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&theme=discord_old_blurple&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
 
 </p>
 
