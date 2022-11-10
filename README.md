@@ -27,21 +27,20 @@
 
 - [About Me](#about-me)
 - [Languages and Tools](#languages-and-tools)
-- [Latest blog post](#latest-blog-posts)
+- [Latest blog posts](#latest-blog-posts)
 - [Question Solved](#question-solved)
 - [Stats](#stats)
 - [Education](#education)
-- [Suppport](#support)
 
 </details>
 
-<h2>About Me</h2>
+## About Me
 <p>
 I am a developer with a strong interest in blockchain technology. I have a wide range of skills and experience in the development field, and I am always keen to learn new technologies. I am a self-starter who is able to work independently, and I am also a good team player. I am proactive and have a positive attitude, which I believe are essential qualities for a successful developer.
 </p>
 </details>
 
-<h2 align="left">Languages and Tools</h2>
+## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown,html,css,tailwind,mysql,docker,bash,git,github,linux,firebase" /> <!-- Skills image -->
@@ -87,10 +86,3 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 | - | :-: | -| -|
 | Chandigarh University | Bachalor of Computer Application | July 2021 - June 2024 | |
 | Kendriya Vidyalaya Tura | Science | July 2020 - June 2021 | 75 % |
-<hr>
-
-## Support
-
-<p align="left">
-<a href="https://www.buymeacoffee.com/jyotirmoydotdev"> <img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a><a href="https://kofi.com/jyotirmoydotdev/"> <img align="center" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a> <img align="center" src="https://img.shields.io/badge/jyotirmoydotdev@okicici-2875E3?style=for-the-badge&logo=googlepay&logoColor=white">
-</p>
