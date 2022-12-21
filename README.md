@@ -76,6 +76,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=whatsappme&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/whatsappme/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=tic-tac-toe&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/whatsappme/)
 
 ## Stats
 
