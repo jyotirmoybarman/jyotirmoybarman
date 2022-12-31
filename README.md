@@ -27,6 +27,7 @@
 
 - [About Me](#about-me)
 - [Languages and Tools](#languages-and-tools)
+- [Skills and Achivement](#skills-and-achivement)
 - [Latest blog posts](#latest-blog-posts)
 - [Question Solved](#question-solved)
 - [Projects](#projects)
@@ -47,6 +48,15 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
     <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown,html,css,tailwind,mysql,docker,bash,git,github,linux,firebase" /> <!-- Skills image -->
   </a>
 </p>
+
+## Skills and Achivement
+| Soft Skill | Technical Skill | Achivement |
+| - | - | - | 
+| Patience |  Data Structure and Algorithms|🥇 Earn 5 Star Glod in HackerRank C++
+| Team Player | <!--Blockchain Developemnt-->
+| Adaptability | <!--Backend Development-->
+| Problem-Solving | <!--System Design-->
+| Self-Awareness | <!--Microservices--> |
 
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
