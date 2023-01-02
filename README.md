@@ -60,6 +60,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Remove even integers from an array](https://jyotirmoy.hashnode.dev/remove-even-integers-from-an-array)
 - [Compile and Run C++ file with single custom command](https://dev.to/jyotirmoydotdev/compile-and-run-c-file-with-single-custom-command-3aol)
 - [Read Articles and EBooks for Free](https://dev.to/jyotirmoydotdev/read-articles-and-ebooks-for-free-5gb9)
 - [Git for Termux](https://dev.to/jyotirmoydotdev/git-for-termux-g14)
