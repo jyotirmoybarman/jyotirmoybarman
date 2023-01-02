@@ -51,7 +51,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 ## Skills and Achivement
 | Soft Skill | Technical Skill | Achivement |
-| :- | :-:  | - | 
+| - | :-:  | - | 
 | Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++
 | Team Player | Web Developemnt |
 | Adaptability | <!--Backend Development-->
