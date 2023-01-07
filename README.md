@@ -15,8 +15,8 @@
   <a href="https://jyotirmoy.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
   </a>
-  <a href="https://dev.to/jyotirmoydotdev">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  <a href="https://opensea.io/jyotirmoydotdev">
+    <img src="https://img.shields.io/badge/opensea-407FDB?style=for-the-badge&logo=opensea&logoColor=white">
   </a>
 <hr>
 
