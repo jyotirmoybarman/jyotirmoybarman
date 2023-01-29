@@ -71,7 +71,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
   
 |                                        Website                                   | Level             | Quetion Solved     |
 | -------------------------------------------------------------------------------- | ----------------- | ------------------ |
-| [Leetcode](https://leetcode.com/jyotirmoydotdev/)                                | Easy              | 4 Question Solved  |
+| [Leetcode](https://leetcode.com/jyotirmoydotdev/)                                | Easy              | 10 Question Solved  |
 |                                                                                  | Medium            | 0 Question Solved  |
 |                                                                                  | Hard              | 0 Question Solved  |
 | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) |                   | 3 Question Solved  |
@@ -83,7 +83,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 |                                                                                  | Algorithms        | 0 Question Solved  |
 |                                                                                  | Basic Programming | 0 Question Solved  |
 
-> Last updated on 26 Oct 2022
+> Last updated on 29 Jan 2023
 
 ## Projects
 
