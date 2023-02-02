@@ -1,4 +1,3 @@
-<img src="pic/banner.jpg">
 <p align="center">
   <a href="mailto:jyotirmoydotdev@gmail.com"> 
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -44,8 +43,8 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 ## Languages and Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,markdown,html,css,tailwind,mysql,docker,bash,git,github,linux,firebase" /> <!-- Skills image -->
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=c,cpp,solidity,python,markdown,html,css,tailwind,mysql,docker,bash,git,github,linux,firebase" /> <!-- Skills image -->
   </a>
 </p>
 
@@ -53,9 +52,9 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 | Soft Skill | Technical Skill | Achivement |
 | - | :-:  | - | 
 | Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++
-| Team Player | Web Developemnt |
-| Adaptability | <!--Backend Development-->
-| Problem-Solving | <!--System Design-->
+| Team Player | Web Developemnt | 
+| Adaptability | Backend Development |
+| Problem-Solving | Smart Contract Development |
 | Self-Awareness | <!--Microservices--> |
 
 ## Latest blog posts 
