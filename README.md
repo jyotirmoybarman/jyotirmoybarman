@@ -69,22 +69,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 <!-- BLOG-POST-LIST:END -->
   
 ## Question Solved
-  
-|                                        Website                                   | Level             | Quetion Solved     |
-| -------------------------------------------------------------------------------- | ----------------- | ------------------ |
-| [Leetcode](https://leetcode.com/jyotirmoydotdev/)                                | Easy              | 10 Question Solved  |
-|                                                                                  | Medium            | 0 Question Solved  |
-|                                                                                  | Hard              | 0 Question Solved  |
-| [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) |                   | 3 Question Solved  |
-| [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice)    |                   | 3 Question Solved  |
-| [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)                  | C++               | 5 Star Gold        |
-|                                                                                  | Problem solving   | 2 Star Bronze      |
-|                                                                                  | 30 Day of Code    | 1 Star Bronze      |
-| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev)                      | Data Structure    | 0 Question Solved  |
-|                                                                                  | Algorithms        | 0 Question Solved  |
-|                                                                                  | Basic Programming | 0 Question Solved  |
 
-> Last updated on 29 Jan 2023
+| [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
+|-|-|-|-|-|
+  
+
 
 ## Projects
 
