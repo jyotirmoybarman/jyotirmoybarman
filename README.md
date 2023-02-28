@@ -61,11 +61,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Storage](https://jyotirmoy.dev/blockchain-storage)
 - [Cryptography](https://jyotirmoy.dev/cryptography)
 - [Decentralization with Blockchain](https://jyotirmoy.dev/decentralization-with-blockchain)
 - [Blockchain Structure](https://jyotirmoy.dev/blockchain-structure)
 - [What is Blockchain?](https://jyotirmoy.dev/what-is-blockchain)
-- [9. Palindrome Number](https://jyotirmoy.dev/9-palindrome-number)
 <!-- BLOG-POST-LIST:END -->
   
 ## Question Solved
