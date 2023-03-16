@@ -22,21 +22,7 @@
   <a href="https://opensea.io/jyotirmoydotdev">
     <img src="https://img.shields.io/badge/opensea-407FDB?style=for-the-badge&logo=opensea&logoColor=white">
   </a>
-<hr>
-
-<details><summary><h3>Content<h3></summary>
-
-- [About Me](#about-me)
-- [Languages and Tools](#languages-and-tools)
-- [Skills and Achivement](#skills-and-achivement)
-- [Latest blog posts](#latest-blog-posts)
-- [Question Solved](#question-solved)
-- [Projects](#projects)
-- [Stats](#stats)
-- [Education](#education)
-
-</details>
-
+  
 ## About Me
 <p>
 I am a developer with a strong interest in blockchain technology. I have a wide range of skills and experience in the development field, and I am always keen to learn new technologies. I am a self-starter who is able to work independently, and I am also a good team player. I am proactive and have a positive attitude, which I believe are essential qualities for a successful developer.
@@ -94,7 +80,7 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 ## Stats
 
 <p align="center">
-<img alt="Streak Stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&theme=discord_old_blurple&hide_border=true">
+<img alt="Streak Stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=full&width=full&theme=discord_old_blurple&hide_border=true&card_width=943">
 
 </p>
 
