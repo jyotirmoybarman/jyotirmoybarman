@@ -57,11 +57,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Fetch Balance from Ethereum Blockchain](https://jyotirmoy.dev/fetch-balance-from-ethereum-blockchain)
 - [Blockchain Storage](https://jyotirmoy.dev/blockchain-storage)
 - [Cryptography](https://jyotirmoy.dev/cryptography)
 - [Decentralization with Blockchain](https://jyotirmoy.dev/decentralization-with-blockchain)
 - [Blockchain Structure](https://jyotirmoy.dev/blockchain-structure)
-- [What is Blockchain?](https://jyotirmoy.dev/what-is-blockchain)
 <!-- BLOG-POST-LIST:END -->
   
 ## Question Solved
