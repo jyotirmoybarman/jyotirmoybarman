@@ -66,14 +66,6 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 | [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
 |-|-|-|-|-|
-  
-
-
-## Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=project-hello-world&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/project-hello-world/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=whatsappme&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/whatsappme/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmoydotdev&repo=tic-tac-toe&layout=compact&theme=discord_old_blurple&hide_border=true)](https://github.com/jyotirmoydotdev/tic-tac-toe/)
 
 ## Stats
 
