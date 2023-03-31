@@ -45,14 +45,21 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 </p>
 
 ## Skills and Achivement
+<p align="center">
+  
 | Soft Skill | Technical Skill | Achivement |
 | - | :-:  | - | 
 | Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++
 | Team Player | Web Developemnt | 
 | Adaptability | Backend Development |
 | Problem-Solving | Smart Contract Development |
-| Self-Awareness | <!--Microservices--> |
+| Self-Awareness | Technical writing |
+  
+| [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
+|-|-|-|-|-|
 
+</p>
+  
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [How to interact with Smart Contract?](https://jyotirmoy.dev/how-to-interact-with-smart-contract)
@@ -61,11 +68,6 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 - [Cryptography](https://jyotirmoy.dev/cryptography)
 - [Decentralization with Blockchain](https://jyotirmoy.dev/decentralization-with-blockchain)
 <!-- BLOG-POST-LIST:END -->
-  
-## Question Solved
-
-| [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
-|-|-|-|-|-|
 
 ## Stats
 
