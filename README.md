@@ -49,11 +49,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
   
 | Soft Skill | Technical Skill | Achivement |
 | - | :-:  | - | 
-| Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++
-| Team Player | Web Developemnt | 
+| Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++ |
+| Team Player | Smart Contract Development |✍🏻 Written 30+ technical article |
 | Adaptability | Backend Development |
-| Problem-Solving | Smart Contract Development |
-| Self-Awareness | Technical writing |
+| Problem-Solving | Web Developemnt |
+| Self-Awareness | Technical Writing |
   
 | [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
 |-|-|-|-|-|
