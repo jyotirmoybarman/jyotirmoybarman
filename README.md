@@ -66,11 +66,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
   
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [The Centralization Paradox of Decentralized Autonomous Organizations](https://jyotirmoy.dev/the-centralization-paradox-of-decentralized-autonomous-organizations)
 - [How DAOs can leverage the power of zero-knowledge proofs](https://jyotirmoy.dev/how-daos-can-leverage-the-power-of-zero-knowledge-proofs)
 - [A Flexible Design for Funding Public Goods - Quadratic Funding](https://jyotirmoy.dev/a-flexible-design-for-funding-public-goods-quadratic-funding)
 - [GPT-4 represents progress toward Artificial General Intelligence &lpar;AGI&rpar; Part - 2](https://jyotirmoy.dev/gpt-4-represents-progress-toward-artificial-general-intelligence-agi-part-2)
 - [GPT-4 represents progress toward Artificial General Intelligence &lpar;AGI&rpar; Part - 1](https://jyotirmoy.dev/gpt-4-represents-progress-toward-artificial-general-intelligence-agi-part-1)
-- [Academic Research and Development in the DeSci Movement](https://jyotirmoy.dev/academic-research-and-development-in-the-desci-movement)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
