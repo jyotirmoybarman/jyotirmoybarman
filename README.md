@@ -66,11 +66,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
   
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Two Sum - LC1](https://jyotirmoy.hashnode.dev/leetcode-1-two-sum)
 - [Valid Anagram - LC242](https://jyotirmoy.hashnode.dev/valid-anagram-lc242)
 - [Contains Duplicate - LC217](https://jyotirmoy.hashnode.dev/contains-duplicate-lc217)
 - [A deep dive into the rise and fall of “The DAO” which caused the hard fork of Ethereum](https://jyotirmoy.hashnode.dev/a-deep-dive-into-the-rise-and-fall-of-the-dao-which-caused-the-hard-fork-of-ethereum)
 - [The Centralization Paradox of Decentralized Autonomous Organizations](https://jyotirmoy.hashnode.dev/the-centralization-paradox-of-decentralized-autonomous-organizations)
-- [How DAOs can leverage the power of zero-knowledge proofs](https://jyotirmoy.hashnode.dev/how-daos-can-leverage-the-power-of-zero-knowledge-proofs)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
