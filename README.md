@@ -66,11 +66,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
   
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the advantages and disadvantages of DAO voting schemes](https://jyotirmoy.hashnode.dev/understanding-the-advantages-and-disadvantages-of-dao-voting-schemes)
 - [How KlimaDAO can be helping to fight climate change](https://jyotirmoy.hashnode.dev/how-klimadao-can-be-helping-to-fight-climate-change)
 - [What is VitaDAO? Advancing longevity science through community-driven research and decentralization](https://jyotirmoy.hashnode.dev/what-is-vitadao-advancing-longevity-science-through-community-driven-research-and-decentralization)
 - [Chainlink&#39;s solutions for decentralized governance challenges](https://jyotirmoy.hashnode.dev/chainlinks-solutions-for-decentralized-governance-challenges)
 - [Group Anagrams - LC49](https://jyotirmoy.hashnode.dev/group-anagrams-lc49)
-- [Two Sum - LC1](https://jyotirmoy.hashnode.dev/leetcode-1-two-sum)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stats
