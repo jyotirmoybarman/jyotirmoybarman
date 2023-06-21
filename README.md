@@ -93,5 +93,6 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 ## Education
 | Institution Name | Course | Year | Grade |
 | - | :-: | -| -|
-| Chandigarh University (C) | Bachalor of Computer Application | July 2021 - June 2024 | |
-| Kendriya Vidyalaya Tura | Science | July 2020 - June 2021 | 75 % |
+| Chandigarh University (CUIDOL), Remote | Bachelor of Computer Application | July 2021 - June 2024 | |
+| Kendriya Vidyalaya, Tura, Meghalaya | 12th Science | July 2020 - June 2021 | 75 % |
+| P.A.S.M. Police Public Sec. School, Tura | 10th SSLC | Jan 2018 - July 2019 | 74.50% |
