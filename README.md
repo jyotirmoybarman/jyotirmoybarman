@@ -79,15 +79,12 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 ## Current Streak and Github Stats
 
 <p align="center">
-<img alt="Streak Stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
+<img alt="Streak Stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true"/>
 </p>
 
-<!---
-## Github Stats
-//<p align="center">
-//<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
-//</p>
---->
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
+</p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&width=full&theme=discord_old_blurple&hide_border=true">
