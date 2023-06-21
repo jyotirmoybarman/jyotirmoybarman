@@ -50,11 +50,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge">
 </p>
 
-## Skills and Achivement
+## Skills and Achievement
 
 <p align="center">
 
-| Soft Skill | Technical Skill | Achivement |
+| Soft Skill | Technical Skill | Achievement |
 | - | :-:  | - | 
 | Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++ |
 | Team Player | Smart Contract Development |✍🏻 Written 30+ technical article |
@@ -62,8 +62,8 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 | Problem-Solving | Web Developemnt |
 | Self-Awareness | Technical Writing |
   
-| [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
-|-|-|-|-|-|
+| DSA | [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
+|-|-|-|-|-|-|
 
 </p>
   
@@ -87,12 +87,11 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 //<p align="center">
 //<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&theme=discord_old_blurple&hide_border=true">
 //</p>
+--->
 
-## Most Language Used
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&width=full&theme=discord_old_blurple&hide_border=true">
 </p>
---->
 
 ## Education
 | Institution Name | Course | Year | Grade |
