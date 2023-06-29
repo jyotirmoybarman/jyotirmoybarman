@@ -54,16 +54,13 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 
 <p align="center">
 
-| Soft Skill | Technical Skill | Achievement |
-| - | :-:  | - | 
-| Patience |  Data Structure and Algorithms|🥇 Earned 5 Star Glod in HackerRank C++ |
-| Team Player | Smart Contract Development |✍🏻 Written 30+ technical article |
-| Adaptability | Backend Development |
-| Problem-Solving | Web Developemnt |
-| Self-Awareness | Technical Writing |
-  
-| DSA | [Leetcode](https://leetcode.com/jyotirmoydotdev/) | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) | [Hackerrank Badges](https://www.hackerrank.com/jyotirmoydotdev)| [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
-|-|-|-|-|-|-|
+| Soft Skill | Technical Skill |  DSA |
+| - | :-:  | - |
+| Patience |  Data Structure and Algorithms|[Leetcode](https://leetcode.com/jyotirmoydotdev/) |
+| Team Player | Smart Contract Development | [Hackerrank](https://www.hackerrank.com/jyotirmoydotdev)|
+| Adaptability | Backend Development | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) |
+| Problem-Solving | Web Development |  [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) |
+| Self-Awareness | Technical Writing | [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
 
 </p>
   
