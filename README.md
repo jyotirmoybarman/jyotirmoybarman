@@ -90,6 +90,15 @@ I am a developer with a strong interest in blockchain technology. I have a wide 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&width=full&theme=discord_old_blurple&hide_border=true">
 </p>
 
+## Experience
+
+|Position|Company|impact|Duration|
+|-|-|-|-|
+|Technical Writer|[Dao Times](https://daotimes.com/author/jyotirmoy/)|• Wrote news articles covering technical topics for publication in various media outlets.<br>• Communicated complex technical concepts to a non-technical audience through clear and concise writing.| April 2023 <br> to <br> June 2023 |
+|Formal Intern |[Dao Times](https://daotimes.com/author/jyotirmoy/)|• Conducted outreach to stakeholders to gather feedback and input on various projects.<br>• Identified and established relationships with key individuals to facilitate successful project outcomes.| March 2023 <br> to <br> April 2023 |
+| Writer | [Blog](https://jyotirmoy.hashnode.dev)| As an individual who enjoys exploring various technological advancements, I have decided to create this personal blog. It is an endeavor that will allow me to showcase my interests and expertise in the industry. | January 2022  <br> to <br> Present |
+
+
 ## Education
 | Institution Name | Course | Year | Grade |
 | - | :-: | -| -|
