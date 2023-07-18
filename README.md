@@ -64,11 +64,11 @@
 
 <p align="center">
 
-| Soft Skill | Technical Skill |  DSA |
-| - | :-:  | - |
-| Patience |  Data Structure and Algorithms|[Leetcode](https://leetcode.com/jyotirmoydotdev/) |
-| Team Player | Smart Contract Development | [Hackerrank](https://www.hackerrank.com/jyotirmoydotdev)|
-| Adaptability | Backend Development | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) |
+| Soft Skill | Technical Skill |  DSA | Top Project
+| - | :-:  | - | :-: |
+| Patience |  Data Structure and Algorithms|[Leetcode](https://leetcode.com/jyotirmoydotdev/) | JB Token Dapp |
+| Team Player | Smart Contract Development | [Hackerrank](https://www.hackerrank.com/jyotirmoydotdev)| Ethereum Reader |
+| Adaptability | Backend Development | [Interviewbit](https://interviewbit.com/profile/jyotirmoydotdev/solved-problems) | 
 | Problem-Solving | Web Development |  [GeeksforGeeks](https://auth.geeksforgeeks.org/user/jyotirmoydotdev/practice) |
 | Self-Awareness | Technical Writing | [HackerEarth](https://www.hackerearth.com/@jyotirmoydotdev) |
 
