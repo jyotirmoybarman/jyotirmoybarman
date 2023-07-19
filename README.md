@@ -89,8 +89,9 @@
 
 |Position|Company|impact|Duration|
 |-|-|-|-|
-|Technical Writer|[Dao Times](https://daotimes.com/author/jyotirmoy/)|• Wrote news articles covering technical topics for publication in various media outlets.<br>• Communicated complex technical concepts to a non-technical audience through clear and concise writing.| April 2023 <br> to <br> June 2023 |
-|Formal Intern |[Dao Times](https://daotimes.com/author/jyotirmoy/)|• Conducted outreach to stakeholders to gather feedback and input on various projects.<br>• Identified and established relationships with key individuals to facilitate successful project outcomes.| March 2023 <br> to <br> April 2023 |
+| Smart Contract Engineer | [Loreum](https://loreum.org) |Test smart contracts for functionality and security, identifying and resolving issues to ensure high-quality work that meets the highest standards.<hr>Optimize smart contracts for efficiency and gas usage using my knowledge of programming languages and blockchain technology. | July 2023 <br> to <br> Present |
+|Technical Writer|[Dao Times](https://daotimes.com/author/jyotirmoy/)|Wrote news articles covering technical topics for publication in various media outlets.<hr>Communicated complex technical concepts to a non-technical audience through clear and concise writing.| April 2023 <br> to <br> June 2023 |
+|Formal Intern |[Dao Times](https://daotimes.com/author/jyotirmoy/)|Conducted outreach to stakeholders to gather feedback and input on various projects.<hr>Identified and established relationships with key individuals to facilitate successful project outcomes.| March 2023 <br> to <br> April 2023 |
 | Writer | [Blog](https://jyotirmoy.hashnode.dev)| As an individual who enjoys exploring various technological advancements, I have decided to create this personal blog. It is an endeavor that will allow me to showcase my interests and expertise in the industry. | January 2022  <br> to <br> Present |
 
 
