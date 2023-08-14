@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Valid Sudoku - Leetcode 36](https://jyotirmoy.hashnode.dev/valid-sudoku-leetcode-36)
 - [Product of Array Except Self - Leetcode 238](https://jyotirmoy.hashnode.dev/product-of-array-except-self-leetcode-238)
 - [Top K Frequent Elements - Leetcode 347](https://jyotirmoy.hashnode.dev/top-k-frequent-elements-leetcode-347)
 - [Group Anagrams - Leetcode 49](https://jyotirmoy.hashnode.dev/group-anagrams-leetcode-49)
 - [Valid Anagram - Leetcode 242](https://jyotirmoy.hashnode.dev/valid-anagram-leetcode-242)
-- [Contains Duplicate - Leetcode 217](https://jyotirmoy.hashnode.dev/contains-duplicate-leetcode-217)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
