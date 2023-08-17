@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Valid Palindrome - Leetcode 125](https://jyotirmoy.hashnode.dev/leetcode-0125)
 - [Longest Consecutive Sequence - Leetcode 128](https://jyotirmoy.hashnode.dev/leetcode-0128)
 - [Valid Sudoku - Leetcode 36](https://jyotirmoy.hashnode.dev/leetcode-0036)
 - [Product of Array Except Self - Leetcode 238](https://jyotirmoy.hashnode.dev/leetcode-0238)
 - [Top K Frequent Elements - Leetcode 347](https://jyotirmoy.hashnode.dev/leetcode-0347)
-- [Group Anagrams - Leetcode 49](https://jyotirmoy.hashnode.dev/leetcode-0049)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
