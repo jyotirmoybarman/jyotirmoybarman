@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple HTTP server using Golang](https://jyotirmoy.hashnode.dev/a-simple-http-server-using-golang)
+- [Two Sum II - Input Array Is Sorted - Leetcode 167](https://jyotirmoy.hashnode.dev/leetcode-0167)
 - [Valid Palindrome - Leetcode 125](https://jyotirmoy.hashnode.dev/leetcode-0125)
 - [Longest Consecutive Sequence - Leetcode 128](https://jyotirmoy.hashnode.dev/leetcode-0128)
 - [Valid Sudoku - Leetcode 36](https://jyotirmoy.hashnode.dev/leetcode-0036)
-- [Product of Array Except Self - Leetcode 238](https://jyotirmoy.hashnode.dev/leetcode-0238)
-- [Top K Frequent Elements - Leetcode 347](https://jyotirmoy.hashnode.dev/leetcode-0347)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
