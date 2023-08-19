@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use Gin Web Framework to build your server](https://jyotirmoy.hashnode.dev/use-gin-web-framework-to-build-your-server)
+- [3Sum - Leetcode 15](https://jyotirmoy.hashnode.dev/leetcode-0015)
 - [A simple HTTP server using Golang](https://jyotirmoy.hashnode.dev/a-simple-http-server-using-golang)
 - [Two Sum II - Input Array Is Sorted - Leetcode 167](https://jyotirmoy.hashnode.dev/leetcode-0167)
 - [Valid Palindrome - Leetcode 125](https://jyotirmoy.hashnode.dev/leetcode-0125)
-- [Longest Consecutive Sequence - Leetcode 128](https://jyotirmoy.hashnode.dev/leetcode-0128)
-- [Valid Sudoku - Leetcode 36](https://jyotirmoy.hashnode.dev/leetcode-0036)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
