@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SQLite 101](https://jyotirmoy.hashnode.dev/sqlite-101)
+- [Best Time to Buy and Sell Stock - Leetcode 121](https://jyotirmoy.hashnode.dev/leetcode-0121)
 - [Trapping Rain Water - Leetcode 42](https://jyotirmoy.hashnode.dev/leetcode-0042)
 - [Container With Most Water - Leetcode 11](https://jyotirmoy.hashnode.dev/leetcode-0011)
 - [Building a JSON Validation Pipeline with Go and Gin](https://jyotirmoy.hashnode.dev/building-a-json-validation-pipeline-with-go-and-gin)
-- [Use Gin Web Framework to build your server](https://jyotirmoy.hashnode.dev/use-gin-web-framework-to-build-your-server)
-- [3Sum - Leetcode 15](https://jyotirmoy.hashnode.dev/leetcode-0015)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
