@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Longest Repeating Character Replacement - Leetcode 424](https://jyotirmoy.hashnode.dev/leetcode-0424)
 - [Longest Substring Without Repeating Characters - Leetcode 3](https://jyotirmoy.hashnode.dev/leetcode-0003)
 - [SQLite 101](https://jyotirmoy.hashnode.dev/sqlite-101)
 - [Best Time to Buy and Sell Stock - Leetcode 121](https://jyotirmoy.hashnode.dev/leetcode-0121)
 - [Trapping Rain Water - Leetcode 42](https://jyotirmoy.hashnode.dev/leetcode-0042)
-- [Container With Most Water - Leetcode 11](https://jyotirmoy.hashnode.dev/leetcode-0011)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
