@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Min Stack - Leetcode 155](https://jyotirmoy.hashnode.dev/leetcode-0155)
 - [Valid Parentheses - Leetcode 20](https://jyotirmoy.hashnode.dev/leetcode-0020)
 - [Sliding Window Maximum - Leetcode 239](https://jyotirmoy.hashnode.dev/leetcode-0239)
 - [Minimum Window Substring - Leetcode 79](https://jyotirmoy.hashnode.dev/leetcode-0079)
 - [Permutation in String - Leetcode 567](https://jyotirmoy.hashnode.dev/leetcode-0567)
-- [Longest Repeating Character Replacement - Leetcode 424](https://jyotirmoy.hashnode.dev/leetcode-0424)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
