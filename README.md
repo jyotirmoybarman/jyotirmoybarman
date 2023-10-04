@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Car Fleet - Leetcode 853](https://jyotirmoy.dev/leetcode-0853)
 - [Daily Temperatures - Leetcode 739](https://jyotirmoy.dev/leetcode-0739)
 - [Generate Parentheses - Leetcode 22](https://jyotirmoy.dev/leetcode-0022)
 - [Evaluate Reverse Polish Notation - Leetcode 150](https://jyotirmoy.dev/leetcode-0150)
 - [Min Stack - Leetcode 155](https://jyotirmoy.dev/leetcode-0155)
-- [Valid Parentheses - Leetcode 20](https://jyotirmoy.dev/leetcode-0020)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
