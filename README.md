@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Koko Eating Bananas - Leetcode 875](https://jyotirmoy.dev/leetcode-0875)
 - [Search a 2D Matrix - Leetcode 74](https://jyotirmoy.dev/leetcode-0074)
 - [Binary Search - Leetcode 704](https://jyotirmoy.dev/leetcode-0704)
 - [Largest Rectangle in Histogram - Leetcode 84](https://jyotirmoy.dev/leetcode-0084)
 - [Car Fleet - Leetcode 853](https://jyotirmoy.dev/leetcode-0853)
-- [Daily Temperatures - Leetcode 739](https://jyotirmoy.dev/leetcode-0739)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
