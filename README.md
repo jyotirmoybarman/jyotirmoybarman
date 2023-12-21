@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://twitter.com/jyotirmoydotdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://github.com/jyotirmoydotdev">
    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white">
