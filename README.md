@@ -10,12 +10,8 @@
 ## Current Streak and Github Stats
 
 <p align="center">
-<img alt="Streak Stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoydotdev&card_width=420&theme=discord_old_blurple&hide_border=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&card_width=420&theme=discord_old_blurple&hide_border=true">
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&card_width=840&theme=discord_old_blurple&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoydotdev&card_width=420&card_height=&theme=discord_old_blurple&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmoydotdev&layout=compact&card_width=420&theme=discord_old_blurple&hide_border=true">
 </p>
 
 ## Contact me
