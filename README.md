@@ -1,10 +1,10 @@
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Median of Two Sorted Arrays - Leetcode 4](https://jyotirmoy.dev/leetcode-0004)
-- [Time Based Key-Value Store - Leetcode 981](https://jyotirmoy.dev/leetcode-0981)
-- [Search in Rotated Sorted Array - Leetcode 33](https://jyotirmoy.dev/search-in-rotated-sorted-array-leetcode-33)
-- [Find Minimum in Rotated Sorted Array - Leetcode 153](https://jyotirmoy.dev/leetcode-0153)
-- [Koko Eating Bananas - Leetcode 875](https://jyotirmoy.dev/leetcode-0875)
+- [Median of Two Sorted Arrays - Leetcode 4](https://jyotirmoy.hashnode.dev/leetcode-0004)
+- [Time Based Key-Value Store - Leetcode 981](https://jyotirmoy.hashnode.dev/leetcode-0981)
+- [Search in Rotated Sorted Array - Leetcode 33](https://jyotirmoy.hashnode.dev/search-in-rotated-sorted-array-leetcode-33)
+- [Find Minimum in Rotated Sorted Array - Leetcode 153](https://jyotirmoy.hashnode.dev/leetcode-0153)
+- [Koko Eating Bananas - Leetcode 875](https://jyotirmoy.hashnode.dev/leetcode-0875)
 <!-- BLOG-POST-LIST:END -->
 
 ## Current Streak and Github Stats
